@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The register of Bath, or, Two hundred observations containing an account of cures performed, and benefit received, by the vse of the famous hot waters of Bath, in the county of Somerset, as they, for the most part, came under the observation and knowledge of Thomas Guidott, physician there : being great part of this experience of the effects of the baths of Bath, for XXVII years last past.</title>
+            <author>Guidott, Thomas, fl. 1698.</author>
+         </titleStmt>
+         <extent>Approx. 128KB of XML-encoded text transcribed from 80 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42307</idno><idno type="EEBO-CITATION">12845309</idno>
+  <idno type="VID">94416</idno>
+  <idno type="EEBO-PROQUEST">2240851840</idno>
+  
+            <idno type="STC">Wing G2199A</idno>
+            <idno type="STC">ESTC R12495</idno>
+            <idno type="OCLC">12845309</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A42307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 714:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The register of Bath, or, Two hundred observations containing an account of cures performed, and benefit received, by the vse of the famous hot waters of Bath, in the county of Somerset, as they, for the most part, came under the observation and knowledge of Thomas Guidott, physician there : being great part of this experience of the effects of the baths of Bath, for XXVII years last past.</title>
+                  <author>Guidott, Thomas, fl. 1698.</author>
+               </titleStmt>
+               <extent>[8], 150 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Leach for the author, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mineral waters --  England --  Bath --  Early works to 1800.</term>
+               <term type="geographic_name">Bath (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94416:1"/>
+            <pb facs="tcp:94416:1"/>
+            <p>THE REGISTER OF BATH, OR, Two <hi>Hundred</hi> Observations. CONTAINING An Account of CURES performed, and <hi>Benefit</hi> received, by the <hi>Ʋse</hi> of the Famous HOT WATERS of <hi>BATH,</hi> in the County of <hi>Somerset,</hi> as they, for the <hi>most</hi> part, came un<g ref="char:EOLhyphen"/>der the <hi>Observation,</hi> and <hi>Knowledge</hi> OF <hi>THOMAS GƲIDOTT, Physician</hi> there.</p>
+            <p>Being great part of his <hi>Experience</hi> of the EFFECTS of the <hi>Baths</hi> of Bath, for XXVII Years last past.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. Leach,</hi> for the Author, and are to be sold by <hi>Randal Taylor,</hi> near <hi>Stationers Hall,</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:94416:2"/>
+            <pb facs="tcp:94416:2"/>
+            <head>TO THE English Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>MY <hi>Latin Tract</hi> concern<g ref="char:EOLhyphen"/>ing the <hi>Nature</hi> and Vertues of the <hi>Baths</hi> of <hi>Bath,</hi> called <hi>Thermae Britannicae,</hi> because most deservedly <hi>cele<g ref="char:EOLhyphen"/>brated</hi> in all the Dominions of the <hi>Monarchy</hi> of Great Bri<g ref="char:EOLhyphen"/>tain, and <hi>Kingdom</hi> of <hi>Ireland,</hi> having found a kind reception from the <hi>Learned,</hi> I was impor<g ref="char:EOLhyphen"/>tuned by many Persons, to make
+<pb facs="tcp:94416:3"/>the same speak <hi>English,</hi> which in <hi>part</hi> is begun, but being for some reasons deferred a little longer; I thought fit as a <hi>stay</hi> to the stomach of the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Reader, to publish the most <hi>useful</hi> part first, which is that of the Effects; where<g ref="char:EOLhyphen"/>by it doth appear what a <hi>bles<g ref="char:EOLhyphen"/>sing</hi> these waters are to this <hi>Nation</hi> in general, and ma<g ref="char:EOLhyphen"/>ny particular persons in and relating to the same, for reco<g ref="char:EOLhyphen"/>very out of very many long, dangerous and deplored Dis<g ref="char:EOLhyphen"/>eases. The consideration of which, as it may perhaps, set our <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Baths upon even ground
+<pb facs="tcp:94416:3"/>of repute with any <hi>Bath</hi> in the World, so not depretiate the just esteem of any <hi>cold</hi> Mi<g ref="char:EOLhyphen"/>neral water well advised, and <hi>duly</hi> taken in its proper pla<g ref="char:EOLhyphen"/>ce<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tho' (as my Lord <hi>Bacon</hi> says somewhere concerning all drinks we use) it cannot be denied, but that warm <hi>Li<g ref="char:EOLhyphen"/>quors</hi> in a moderate degree of heat, agree better with the <hi>Stomach,</hi> the <hi>Bowels,</hi> and all <hi>nervous</hi> parts, than any thing <hi>cold</hi> or <hi>acid</hi> can do, as by <hi>Coffee, Tea,</hi> and <hi>Chocolate,</hi> doth every day appear. The bulk of the whole fell under my <hi>own</hi> observation, and were
+<pb facs="tcp:94416:4"/>
+               <hi>most</hi> what performed on my <hi>own</hi> Patients; who having been willing to own the <hi>Good</hi> they received, partly by <hi>sub<g ref="char:EOLhyphen"/>scription</hi> of their respective Names, and partly by <hi>acknow<g ref="char:EOLhyphen"/>ledgment</hi> and desire of publi<g ref="char:EOLhyphen"/>cation, together with my <hi>faithful</hi> &amp; impartial Relation, will ren<g ref="char:EOLhyphen"/>der the <hi>subject matter</hi> beyond <hi>Exception,</hi> and be no <hi>slight</hi> direction to others, both <hi>Physi<g ref="char:EOLhyphen"/>cians</hi> and <hi>Patients,</hi> what the <hi>Bath</hi> and <hi>waters</hi> thereof may be proper for. I have not di<g ref="char:EOLhyphen"/>stinguished <hi>Bathers</hi> from <hi>Drinkers,</hi> in regard many per<g ref="char:EOLhyphen"/>sons do <hi>both,</hi> but where any
+<pb facs="tcp:94416:4"/>considerable <hi>Cure</hi> or <hi>Benefit</hi> hath been gained by <hi>drinking,</hi> that is distinctly related, tho' in course with the <hi>Bathers.</hi> If God send life, health and mat<g ref="char:EOLhyphen"/>ter to proceed on, I shall publish every year as many <hi>Centuries</hi> as I can make up: in the mean time, I hope, I have done enough to bespeak me a Friend, not so much to a <hi>private</hi> Inte<g ref="char:EOLhyphen"/>rest, as a <hi>publick</hi> Good; and having done mine endeavour to use <hi>distributive justice</hi> to all, and offend <hi>none,</hi> I may the better promise freedom to my self from that unhappi<g ref="char:EOLhyphen"/>ness of censure, which some
+<pb facs="tcp:94416:5"/>writers of <hi>Cases</hi> have <hi>before</hi> incurred.</p>
+            <p>I commit this <hi>Essay</hi> of mine, <hi>gentle Reader,</hi> to thy perusal and kindness, and rest</p>
+            <closer>
+               <signed>
+                  <hi>Thy</hi> Faithful <hi>Friend,</hi> Tho. Guidott.</signed>
+               <dateline>
+                  <hi>London, <date>2 March, 1694.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="century">
+            <pb n="1" facs="tcp:94416:5"/>
+            <head>THE REGISTER OF BATH.</head>
+            <head type="sub">First Century.</head>
+            <div n="1" type="observation">
+               <head>I.</head>
+               <p>THE Right <hi>Honourable WIL<g ref="char:EOLhyphen"/>LIAM HOWARD,</hi> Lord Viscount <hi>Stafford,</hi> troubled with an <hi>Ʋniversal Palsey,</hi> recovered
+<pb n="2" facs="tcp:94416:6"/>sense and motion in <hi>all</hi> his Limbs by the use of the <hi>Kings</hi> Bath. He bathed also privately in the <hi>Win<g ref="char:EOLhyphen"/>ter</hi> in a convenient Vessel, in water taken from the springs of the <hi>Kings</hi> Bath, 1667.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>II.</head>
+               <p>
+                  <hi>Benjamin Baber,</hi> Alderman of the City of <hi>Bath,</hi> in a <hi>Sciatica,</hi> using the same Bath, and pumping to the number of 20000 strokes, at several times, on the part affect<g ref="char:EOLhyphen"/>ed, in short time <hi>perfectly</hi> reco<g ref="char:EOLhyphen"/>vered, 1665. From his <hi>own</hi> Re<g ref="char:EOLhyphen"/>lation, 13th of <hi>February,</hi> 1679.</p>
+            </div>
+            <div n="3" type="observation">
+               <head>III.</head>
+               <p>The Right Honourable <hi>ED<g ref="char:EOLhyphen"/>WARD BRABAZON,</hi> Earl of <hi>Meath,</hi> in the <hi>Kingdom</hi> of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and his <hi>Countess</hi> in the <hi>Spleen,</hi>
+                  <pb n="3" facs="tcp:94416:6"/>and great <hi>Weakness</hi> of Limbs, by the <hi>Kings</hi> and <hi>Queens</hi> Bath, pumping, and <hi>drinking</hi> the Wa<g ref="char:EOLhyphen"/>ters, received great benefit, 1670.</p>
+            </div>
+            <div n="4" type="observation">
+               <head>IV.</head>
+               <p>Madam <hi>Porter,</hi> of <hi>Cornwal,</hi> in a <hi>Hemiplegia scorbutica,</hi> or <hi>Half Palsey,</hi> of the <hi>right</hi> side, arising chiefly from the <hi>Scurvy,</hi> after pro<g ref="char:EOLhyphen"/>per preparatory Medicines, cor<g ref="char:EOLhyphen"/>recting the faults of the bowels and blood, for a <hi>fortnights</hi> time, before she entred the <hi>Bath;</hi> by the use of the <hi>Queens</hi> Bath chiefly, and sometimes the <hi>Kings,</hi> receiv<g ref="char:EOLhyphen"/>ed <hi>Cure,</hi> and was restored to <hi>perfect</hi> health, 22 <hi>May,</hi> 1670.</p>
+            </div>
+            <div n="5" type="observation">
+               <head>V.</head>
+               <p>
+                  <hi>John Harvey,</hi> Painter Stainer and Stone-cutter of <hi>Bath,</hi> in a half
+<pb n="4" facs="tcp:94416:7"/>
+                  <hi>Palsey,</hi> of the <hi>left</hi> side, and <hi>numb<g ref="char:EOLhyphen"/>ness</hi> of limbs, insomuch as the top of one finger of the <hi>left</hi> hand be<g ref="char:EOLhyphen"/>ing accidentally cut off, he felt no pain; and his foot of the same side so void of sense, that creep<g ref="char:EOLhyphen"/>ing with a staff, and treading with his stocking on the ground, he did not perceive the want of a <hi>slipper;</hi> by the use of the Cross Bath, in the winter season, reco<g ref="char:EOLhyphen"/>vered sense and motion in <hi>all</hi> his limbs, 14 <hi>Nov.</hi> 1671.</p>
+            </div>
+            <div n="6" type="observation">
+               <head>VI.</head>
+               <p>The Right Honourable <hi>LEI<g ref="char:EOLhyphen"/>C'STER D'EVEREƲX,</hi> Lord Viscount <hi>Hereford,</hi> in a contusion by a fall in hunting the <hi>Fox,</hi> which deprived him of the mo<g ref="char:EOLhyphen"/>tion of elevation of his <hi>right</hi> arm, by the use of the <hi>Kings</hi> and <hi>Queens</hi> Baths, and <hi>Pumping</hi> in
+<pb n="5" facs="tcp:94416:7"/>the same, recovered that motion, 1672. The <hi>Scapula</hi> bone by lax<g ref="char:EOLhyphen"/>ation slipping down, a skilful <hi>Operator</hi> reduc'd it at the <hi>Bath,</hi> which the use of the <hi>Bath</hi> after<g ref="char:EOLhyphen"/>wards confirmed.</p>
+            </div>
+            <div n="7" type="observation">
+               <head>VII.</head>
+               <p>Madam <hi>Constans Harvy,</hi> in a <hi>Cachexie,</hi> or ill habit of body, and <hi>inveterate</hi> obstructions, by the use of the <hi>Kings</hi> and <hi>Cross</hi> Baths, and drinking the waters received <hi>Cure,</hi> 10 <hi>Aug.</hi> 1673. She was well at <hi>Greenwich,</hi> where I saw her, 11 <hi>Jun.</hi> 1686.</p>
+            </div>
+            <div n="8" type="observation">
+               <head>VIII.</head>
+               <p>
+                  <hi>John Revet,</hi> near <hi>Holbourn</hi>-Bridge, <hi>London;</hi> sometime Bra<g ref="char:EOLhyphen"/>zier to his Most Serene Majesty <hi>CHARLES</hi> II. in a <hi>Half Palsey,</hi>
+                  <pb n="6" facs="tcp:94416:8"/>received <hi>Cure</hi> by the use of the <hi>Kings</hi> Bath, 1674. which he testi<g ref="char:EOLhyphen"/>fied by an <hi>Inscription</hi> on a large Copper Ring, given in memory of the same, and may <hi>now</hi> be seen at the entrance out of the <hi>Kings</hi> Bath into the <hi>Queens,</hi> on the <hi>right</hi> hand. The words these: <hi>I,</hi> John Revet, <hi>his Majestys Brazier, at</hi> 50 <hi>years of Age, in this present month of</hi> July, 1674, <hi>received</hi> Cure <hi>of a</hi> True Palsie, <hi>from head to foot on one side.</hi> Before which he put, THANKS TO GOD.</p>
+            </div>
+            <div n="9" type="observation">
+               <head>IX.</head>
+               <p>
+                  <hi>William Coo,</hi> of <hi>Grandford,</hi> in the County of <hi>Northampton,</hi> Esq; much troubled with the <hi>Palsey</hi> for a <hi>long</hi> time, by the use of the <hi>Cross</hi> Bath received <hi>cure,</hi> and on that account, at his proper cost, put a Bordure of Lead about the
+<pb n="7" facs="tcp:94416:8"/>
+                  <hi>Old</hi> Cross in the <hi>Cross</hi> Bath, where he used to sit, more convenient for <hi>Bathers</hi> than before, with this Inscription: I, William Coo, <hi>of</hi> Grandford <hi>in the County of</hi> North<g ref="char:EOLhyphen"/>ampton, <hi>Esq; pay my Vows to Al<g ref="char:EOLhyphen"/>mighty GOD, in the</hi> 63d. <hi>Year of my Age,</hi> 1675. This is now re<g ref="char:EOLhyphen"/>moved on the setting up of the <hi>New</hi> Marble Cross, in the year 1688. by <hi>JOHN</hi> Earl of <hi>MEL<g ref="char:EOLhyphen"/>FORT.</hi>
+               </p>
+            </div>
+            <div n="10" type="observation">
+               <head>X.</head>
+               <p>A Merchant of <hi>London</hi> of 70 years of Age, troubled with the <hi>Gout,</hi> and so afflicted, that for six weeks time he could not go to bed, or rise, without help, having also used <hi>Crutches</hi> for many months, by the use of the <hi>Cross</hi> Bath, and rubbing well with the <hi>Guides</hi> Hands, at 3 seasons of Bathing, so
+<pb n="8" facs="tcp:94416:9"/>far recovered, that using only a walking staff, which usually he went with, he now walks strongly, both hands and feet being <hi>flexible,</hi> and free from pain. He subscribed this <hi>Benefit,</hi> 5 <hi>Aug.</hi> 1676. <hi>R. P.</hi>
+               </p>
+            </div>
+            <div n="11" type="observation">
+               <head>XI.</head>
+               <p>Mrs. <hi>E. Y.</hi> of <hi>London,</hi> troubled with a <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>taneous</hi> distemper, and <hi>pustulous</hi> eruptions over most part of her body, by the use of the <hi>Cross</hi> Bath chiefly, and <hi>drinking</hi> the waters of the same from the Pump in <hi>that</hi> Bath, received <hi>cure,</hi> 10 <hi>July,</hi> 1676. She continued well in <hi>London</hi> ten years after, 1686.</p>
+            </div>
+            <div n="12" type="observation">
+               <head>XII.</head>
+               <p>
+                  <hi>Benjamin Adams,</hi> Servant to Mr. <hi>William Allen</hi> of <hi>Smithfield,
+<pb n="9" facs="tcp:94416:9"/>London,</hi> in a <hi>Sciatica,</hi> by the use of the <hi>Kings</hi> Bath, at 2 <hi>Seasons,</hi> succeeding each other, received <hi>cure,</hi> 7 <hi>Aug.</hi> 1676.</p>
+            </div>
+            <div n="13" type="observation">
+               <head>XIII.</head>
+               <p>A Gentlewoman of good Qua<g ref="char:EOLhyphen"/>lity in the City of <hi>London,</hi> hav<g ref="char:EOLhyphen"/>ing a <hi>Sore-running-Head,</hi> with a briny matter breaking forth, and running between the Suture, cal<g ref="char:EOLhyphen"/>led <hi>Lamb<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oides,</hi> and the Neck, by the <hi>Cross</hi> Bath, and pump of the <hi>Hot</hi> Bath, in 5 <hi>weeks</hi> time, received <hi>Cure,</hi> 16 <hi>Aug.</hi> 1676.</p>
+            </div>
+            <div n="14" type="observation">
+               <head>XIV.</head>
+               <p>Sir <hi>Alexander Cunningham,</hi> of <hi>Corshell,</hi> in the Shire of <hi>Aire,</hi> in the ancient <hi>Kingdom</hi> of <hi>Scotland,</hi> Knight and Baronet, in a <hi>Palsey Ʋniversal</hi> much afflicting his limbs,
+<pb n="10" facs="tcp:94416:10"/>in 5 weeks use of the <hi>Kings</hi> Bath received <hi>cure.</hi> His hands and feet, in a manner stupid and senseless, were restored to their <hi>perfect</hi> use, 20 <hi>Aug.</hi> 1676.</p>
+            </div>
+            <div n="15" type="observation">
+               <head>XV.</head>
+               <p>
+                  <hi>Matthew Bennet,</hi> of <hi>Clifton</hi> in the County of <hi>Warwick,</hi> Shoe<g ref="char:EOLhyphen"/>maker, in an <hi>Hemiplegia,</hi> or <hi>Half Palsey,</hi> of the <hi>right</hi> side, with many <hi>Cramps,</hi> and frequent <hi>Con<g ref="char:EOLhyphen"/>vulsive</hi> motions of the muscles of the <hi>M<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th, Arms,</hi> and <hi>other</hi> parts, especially of the <hi>singers</hi> of the <hi>left</hi> hand, after 12 days bathing, at <hi>one</hi> Season, in the <hi>Hot</hi> (or <hi>Long</hi>) Bath, and 3 weeks at <hi>another,</hi> re<g ref="char:EOLhyphen"/>ceived <hi>cure,</hi> 23 <hi>May,</hi> 1677.</p>
+               <div type="note">
+                  <head>Note,</head>
+                  <p>That these <hi>Convulsions</hi> were
+<pb n="11" facs="tcp:94416:10"/>from <hi>emptiness,</hi> by reason of weakness and <hi>defect</hi> of the Ani<g ref="char:EOLhyphen"/>mal Spirits, and those we call <hi>Symptomatic,</hi> which, on the cure of the Palsey, <hi>vanished;</hi> whereas the convulsive motions called <hi>Es<g ref="char:EOLhyphen"/>sential,</hi> or depending on no other diseases, by the use of the <hi>Hotter</hi> waters, and the <hi>Hot Bath</hi> parti<g ref="char:EOLhyphen"/>cularly, are usually provoked.</p>
+               </div>
+            </div>
+            <div n="16" type="observation">
+               <head>XVI.</head>
+               <p>Mr. <hi>Robert Forder,</hi> of <hi>Easton</hi> near <hi>Winchester,</hi> in the County of <hi>Southampton,</hi> in a <hi>Sciatica,</hi> by the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath, at 2 seasons following, received <hi>cure,</hi> 8 <hi>Jun.</hi> 1677.</p>
+            </div>
+            <div n="17" type="observation">
+               <head>XVII.</head>
+               <p>
+                  <hi>Margaret Fisher,</hi> of <hi>Nehn Ishea</hi> in the County of <hi>Cork,</hi> in the King<g ref="char:EOLhyphen"/>dom
+<pb n="12" facs="tcp:94416:11"/>of <hi>Ireland,</hi> 12 years of age, troubled with a <hi>Palsey</hi> in both legs, and contraction of the <hi>left</hi> foot, by the use of the <hi>Cross</hi> Bath, in 8 weeks time received <hi>cure,</hi> 15 <hi>Aug.</hi> 1677.</p>
+            </div>
+            <div n="18" type="observation">
+               <head>XVIII.</head>
+               <p>
+                  <hi>John Robertson,</hi> of the <hi>Nooke</hi> in the Parish of <hi>Cletar,</hi> in the County of <hi>Cumberland,</hi> came <hi>pau<g ref="char:EOLhyphen"/>per</hi> to <hi>Bath,</hi> troubled one year with a <hi>Palsey Ʋniversal,</hi> which had deprived him of the use both of <hi>hand</hi> and <hi>foot,</hi> and brought him to that degree of weakness that he could not turn in his bed without help; by the use of the <hi>Hot,</hi> or <hi>Long</hi> Bath, every day for three months, and the <hi>Kings</hi> one, received <hi>perfect cure,</hi> 11 <hi>Sept.</hi> 1677. He met me after<g ref="char:EOLhyphen"/>wards, in the year 1679, at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+                  <pb n="13" facs="tcp:94416:11"/>(where I found him well, and walking the streets) and gave thanks in the House of my honoured Friend Dr. <hi>Nicholas Car<g ref="char:EOLhyphen"/>ter,</hi> late Fellow of the Royal Col<g ref="char:EOLhyphen"/>lege of Physicians, <hi>London,</hi> to whom he was willing to shew himself.</p>
+            </div>
+            <div n="19" type="observation">
+               <head>XIX.</head>
+               <p>A young Gentleman of great hopes, by name Mr. <hi>Richard St. Leger,</hi> commonly called <hi>Sellenger,</hi> Son to the Noble Collonel <hi>Sellen<g ref="char:EOLhyphen"/>ger,</hi> of <hi>Howards-Hill</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cork,</hi> in the <hi>Kingdom</hi> of <hi>Ireland,</hi> 14 years of age, having had a <hi>Palsey</hi> of both legs, which made him not able to move him<g ref="char:EOLhyphen"/>self for 12 months time; in 3 <hi>weeks</hi> using the <hi>Kings</hi> Bath, and sometimes the <hi>Queens,</hi> received <hi>cure</hi> on the <hi>place.</hi> At his coming
+<pb n="14" facs="tcp:94416:12"/>to the <hi>Bath</hi> the motion of his <hi>lower</hi> limbs was <hi>utterly</hi> lost, and the two <hi>first</hi> joints of the <hi>Fingers</hi> of <hi>both</hi> hands were <hi>senseless.</hi> He continued the <hi>Bath</hi> after recove<g ref="char:EOLhyphen"/>ry, and at ten <hi>weeks</hi> end went home <hi>well,</hi> 18 <hi>Sept.</hi> 1677.</p>
+            </div>
+            <div n="20" type="observation">
+               <head>XX.</head>
+               <p>Mr. <hi>Thomas Brookes,</hi> Minister of the word of GOD in <hi>London,</hi> 60 years of age, having his <hi>Head</hi> and original of the <hi>Nerves</hi> ill af<g ref="char:EOLhyphen"/>fected, and 16 <hi>years</hi> a gravative pain in the <hi>back</hi> and <hi>kidneys,</hi> came to <hi>Bath</hi> 1679, where, pre<g ref="char:EOLhyphen"/>paratories premised, he <hi>drank</hi> the waters from the Dry-Pump at the <hi>Kings Bath,</hi> in a <hi>due</hi> method and order directed by me, and voided a <hi>great</hi> quantity of a ve<g ref="char:EOLhyphen"/>ry fine powder, which subsided in the bottom of the Urinal,
+<pb n="15" facs="tcp:94416:12"/>which the Urine evaporated <hi>ad siccitatem,</hi> made eight <hi>Pills</hi> as big as <hi>Pistol</hi> bullets, of the colour and consistence of stone, and at his return <hi>home</hi> evacuated as much more of that fine powder re<g ref="char:EOLhyphen"/>sembling flower, as wou'd make 44 <hi>Pills</hi> more, without <hi>mixture</hi> of any thing to make 'em up. All the matter together voided in no long time, was enough to make a <hi>ball</hi> of stone of <hi>six</hi> ounces weight; which coming away, the heavy pain in the <hi>kidneys</hi> and <hi>back</hi> afterward ceased, but the Pati<g ref="char:EOLhyphen"/>ent having <hi>many</hi> Diseases besides after a years time or thereabouts, departed this life.</p>
+               <p>'Tis here to be <hi>noted</hi> that the small stones were of equal hard<g ref="char:EOLhyphen"/>ness with <hi>Marble,</hi> and being dap<g ref="char:EOLhyphen"/>ped on the ground wou'd re<g ref="char:EOLhyphen"/>bound into the hand, like those the <hi>Boys</hi> use to play with, and
+<pb n="16" facs="tcp:94416:13"/>call <hi>Marvels.</hi> That this stony matter was bred in the body sticking to the passages thereof, and not communicated from the water, as <hi>some imagine,</hi> seems evi<g ref="char:EOLhyphen"/>dent from this; that the <hi>stony</hi> matter sent out by Urine, the old gravative pain immeeiately ceased, which wou'd rather have been <hi>increased</hi> had the water made a greater supply. I had not observed the like in any Pati<g ref="char:EOLhyphen"/>ent before; of this matter I have discoursed purposely to free the <hi>Bath water</hi> from this surmise, in the 12th <hi>chapter</hi> of my Book of the <hi>British Baths,</hi> and in the 15th <hi>chapter</hi> number 54, something like was afterwards taken notice of, as in its proper place shall here<g ref="char:EOLhyphen"/>after appear. The 10th of <hi>June</hi> 1687, I saw these stone Pills or <hi>globular</hi> Concretions not at all re<g ref="char:EOLhyphen"/>treated, as <hi>hard</hi> as ever <hi>seven</hi>
+                  <pb n="17" facs="tcp:94416:13"/>years after they had been voided in powder.</p>
+            </div>
+            <div n="21" type="observation">
+               <head>XXI.</head>
+               <p>Major <hi>Thomas Hawley,</hi> of the Tower of <hi>London,</hi> had the <hi>Patol<g ref="char:EOLhyphen"/>la</hi> bone of his <hi>left</hi> knee <hi>thrice</hi> in<g ref="char:EOLhyphen"/>jured by as many different acci<g ref="char:EOLhyphen"/>dents, which occasioned so much weakness that he went by Crutch<g ref="char:EOLhyphen"/>es, and could have no remedy by any advice either at home or in <hi>foreign</hi> parts, for the space of 5 <hi>years;</hi> used the <hi>Cross</hi> Bath, and pumped only 7 <hi>times,</hi> and <hi>per<g ref="char:EOLhyphen"/>fectly</hi> recovered, 1680. See N. LXI. <hi>Cent.</hi> 2.</p>
+            </div>
+            <div n="22" type="observation">
+               <head>XXII.</head>
+               <p>Mrs. <hi>Mary Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> of <hi>Stanton-drue</hi> in the County of <hi>Somerset,</hi> trou<g ref="char:EOLhyphen"/>bled two <hi>years</hi> with fits of the
+<pb n="18" facs="tcp:94416:14"/>
+                  <hi>Mother,</hi> drank the waters of the <hi>Kings</hi> Bath 14 days in the <hi>Spring</hi> season, and as many in the <hi>Fall</hi> immediately following, and re<g ref="char:EOLhyphen"/>ceived cure 1681.</p>
+            </div>
+            <div n="23" type="observation">
+               <head>XXXIII.</head>
+               <p>
+                  <hi>Anno Domini</hi> 1681, <hi>Jacob Hall,</hi> a common Soldier in <hi>Ireland,</hi> came to <hi>Bath</hi> with great tremblings o<g ref="char:EOLhyphen"/>ver all his body, so violent that coming near the <hi>walls</hi> of the Ci<g ref="char:EOLhyphen"/>ty, he was like to have fallen thro the <hi>Ope</hi> of the same, to the great danger of life from that Precipice, from which he was freed by some that then <hi>acciden<g ref="char:EOLhyphen"/>tally</hi> stood by; the contractions so <hi>involuntary</hi> that they could not be hindred by himself. With these <hi>wonderful</hi> shakings he had been afflicted 18 <hi>years</hi> in <hi>Ireland,</hi> and in the year aforesaid came to <hi>Bath</hi>
+                  <pb n="19" facs="tcp:94416:14"/>for cure, where using the <hi>Long</hi> Bath, commonly called the <hi>Hot</hi> Bath six <hi>weeks,</hi> in the <hi>first</hi> month he needed not his staff; the <hi>year</hi> following using the <hi>same</hi> Bath for foul eruptions in the skin, in the space of <hi>one</hi> month received <hi>cure</hi> of that distemper, but had his shakings not much abated; by a <hi>longer</hi> use of the <hi>Bath,</hi> strength coming to the <hi>Nerves,</hi> the trem<g ref="char:EOLhyphen"/>bling afterwards went away, and in the <hi>year</hi> 1683 came well to the <hi>Bath,</hi> and then made <hi>publick</hi> acknowledgment of <hi>cure.</hi>
+               </p>
+            </div>
+            <div n="24" type="observation">
+               <head>XXIV.</head>
+               <p>
+                  <hi>Peter Bonamy,</hi> Sub-Dean of <hi>Guernsey,</hi> 3 years troubled with the <hi>Colic,</hi> on a translation of the morbific matter to the <hi>Limbs,</hi> be<g ref="char:EOLhyphen"/>came <hi>paralitic.</hi> There was also added a <hi>scorbutic</hi> taint, by which
+<pb n="20" facs="tcp:94416:15"/>the mass of blood was defiled, and the <hi>Animal</hi> spirits became languid and weak, the <hi>skin</hi> in<g ref="char:EOLhyphen"/>fested with <hi>spots,</hi> and <hi>pustulous</hi> eruptions, the <hi>fingers</hi> contracted, <hi>feet</hi> staggering, and the internal muscular flesh of the <hi>right</hi> Thumb very much sunk, with <hi>paleness</hi> in his countenance, and <hi>leanness</hi> over all the body. The <hi>first</hi> sea<g ref="char:EOLhyphen"/>son of bathing in the <hi>Temperate</hi> Baths gave him considerable ad<g ref="char:EOLhyphen"/>vantage in Health, in a <hi>months</hi> time; the <hi>second</hi> season more, and after four <hi>years</hi> absence, com<g ref="char:EOLhyphen"/>ing to <hi>Bath</hi> again the third <hi>time</hi> he returned with an <hi>Athletic</hi> ha<g ref="char:EOLhyphen"/>bit of body, <hi>fleshy</hi> and <hi>brawny</hi> Limbs, only the extremities of his <hi>hands,</hi> and <hi>feet,</hi> especially the back of the foot, weak, other<g ref="char:EOLhyphen"/>wise sound, his <hi>bowels,</hi> as far as by touch, and conjecture could ap<g ref="char:EOLhyphen"/>pear, no way ill affected, and
+<pb n="21" facs="tcp:94416:15"/>the weakness before excepted, every where strong and sound. He used the <hi>King</hi> and <hi>Queens</hi> Bath chiefly, and sometimes the <hi>Cross</hi> Bath, and drank the water from the <hi>Kings</hi> Bath Dry-Pump. He went away in <hi>July</hi> 1681.</p>
+            </div>
+            <div n="25" type="observation">
+               <head>XXV.</head>
+               <p>Mr. <hi>James How,</hi> of <hi>London,</hi> about 40 years of age, troubled with the <hi>Spleen,</hi> and consequent<g ref="char:EOLhyphen"/>ly an ill disposition of the <hi>Sto<g ref="char:EOLhyphen"/>mach,</hi> and <hi>Guts,</hi> occasioning a bad <hi>retention</hi> of food, and faulty chyle, whence a want of <hi>Appe<g ref="char:EOLhyphen"/>tite,</hi> an atrophy, and <hi>thin habit of body,</hi> with great <hi>impair</hi> of strength did proceed. There was also an undue <hi>fermentation</hi> of the juices issuing from the <hi>Sweetbread</hi> and <hi>bladder</hi> of <hi>Gall,</hi> and sometimes so great a working of contrary
+<pb n="22" facs="tcp:94416:16"/>matter, that <hi>sharp</hi> and <hi>flatulent</hi> humours making their way up<g ref="char:EOLhyphen"/>wards and downwards, gave <hi>Tor<g ref="char:EOLhyphen"/>ments</hi> to the Bowels, and created in the Stomach a <hi>nauseousness, vomit<g ref="char:EOLhyphen"/>ing,</hi> and great <hi>distension</hi> from wind.</p>
+               <p>After <hi>many</hi> remedies from <hi>di<g ref="char:EOLhyphen"/>vers</hi> Physicians, in the month of <hi>June</hi> 1681. he came to <hi>Bath,</hi> where the <hi>Bath</hi> not so well agree<g ref="char:EOLhyphen"/>ing with him, I advised him to drink the water, upon which, at <hi>first,</hi> by reason of the stubborn rebellious nature of the humours, he grew much worse: But in some time after, taking the water in <hi>lesser</hi> quantities, <hi>longer</hi> distances, and <hi>fasting</hi> thereupon, the <hi>vomit<g ref="char:EOLhyphen"/>ing</hi> and <hi>retching</hi> went off, the <hi>bowels</hi> became strong, and a good habit of body appeared, so that now enjoying a very good <hi>Appe<g ref="char:EOLhyphen"/>tite</hi> he can eat two or three <hi>times</hi> in a day, digest well, distribute
+<pb n="23" facs="tcp:94416:16"/>
+                  <hi>good</hi> chyle, and perform all the Functions and Offices of nature to <hi>best</hi> advantage. The same year in <hi>November</hi> having eaten in <hi>London</hi> somewhat not agreeing with his Stomach, the <hi>vomiting</hi> returned; but Medicines appro<g ref="char:EOLhyphen"/>priate to the <hi>Stomach</hi> being sea<g ref="char:EOLhyphen"/>sonably applied, by the advice of Dr. <hi>George How</hi> his Nephew, Fel<g ref="char:EOLhyphen"/>low of the <hi>Royal</hi> College of Phy<g ref="char:EOLhyphen"/>sicians <hi>London,</hi> the vomiting cea<g ref="char:EOLhyphen"/>sed, so that at this time he en<g ref="char:EOLhyphen"/>joys health, and is very well, 23d <hi>Nov.</hi> 81. Towards the latter end he used the <hi>Cross</hi> Bath, and <hi>drank</hi> the water of the <hi>Kings, Cross,</hi> and <hi>Hot</hi> Bath for near 3 Months, and confest he found <hi>more</hi> benefit in the <hi>last</hi> month than in the <hi>first,</hi> as in the 12th <hi>chapter</hi> of my <hi>Latin</hi> Tract of the <hi>Baths</hi> of <hi>Great Britain</hi> is more fully discoursed.</p>
+            </div>
+            <div n="26" type="observation">
+               <pb n="24" facs="tcp:94416:17"/>
+               <head>XXVI.</head>
+               <p>Mrs. <hi>K. C.</hi> of <hi>London</hi> having been long vexed with a <hi>monstrous</hi> drought, insomuch as by her own relation, her <hi>Tongue</hi> did (as it were) cleave to the roof of her mouth, having us'd the best advice, and most effectual remedies pre<g ref="char:EOLhyphen"/>scribed by Dr. <hi>Fisher,</hi> and others in <hi>London,</hi> to no purpose, upon <hi>drinking</hi> the water of the <hi>Cross</hi> Bath from the <hi>lesser</hi> Pump there, to the quantity of 5 <hi>pints</hi> only, at most, for as many <hi>weeks</hi> recei<g ref="char:EOLhyphen"/>ved <hi>cure</hi> of that troublesom dis<g ref="char:EOLhyphen"/>ease, and being till then un<g ref="char:EOLhyphen"/>known to me, made voluntary relation of the same, 20 <hi>Mar.</hi> 1684. in <hi>London,</hi> and desired this remembrance.</p>
+            </div>
+            <div n="27" type="observation">
+               <pb n="25" facs="tcp:94416:17"/>
+               <head>XXVII.</head>
+               <p>The Right Noble Lord <hi>ALEX<g ref="char:EOLhyphen"/>ANDER</hi> Earl of <hi>EGLINTOWN,</hi> in the shire of <hi>Aire,</hi> in the Bay<g ref="char:EOLhyphen"/>liwich of <hi>Cuningham,</hi> &amp;c. Lord <hi>Mont<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gme<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> of <hi>Scotland,</hi> upon hunting the Fox, falling unawares from his Horse, and bruising the <hi>Muscles</hi> and <hi>Tendons</hi> of both hands, and especially those of the <hi>right</hi> arm, so that the motion of that arm became very much injured, having also received hurt on the <hi>forepart</hi> of the head, <hi>right</hi> shoul<g ref="char:EOLhyphen"/>der, and elbow of the same side, the Tendons of the Fingers be<g ref="char:EOLhyphen"/>coming so stiff as not to move <hi>in<g ref="char:EOLhyphen"/>ward,</hi> the Fingers also nummed, and almost <hi>senseless,</hi> bathing 3 <hi>weeks</hi> in the <hi>Cross</hi> Bath, and pump<g ref="char:EOLhyphen"/>ing 7 <hi>hundred</hi> on the singers and wrist for <hi>several</hi> days together,
+<pb n="26" facs="tcp:94416:18"/>receiving also some <hi>hundreds</hi> on the head, in the Dry-pump at the <hi>Hot</hi> Bath, <hi>recovered</hi> the former mo<g ref="char:EOLhyphen"/>tion of the muscles and animal spi<g ref="char:EOLhyphen"/>rits, 4 <hi>Aug.</hi> 1682. About the end of <hi>Aug.</hi> 1684, the Noble <hi>Earl</hi> confirm<g ref="char:EOLhyphen"/>ed this Cure, and declared it <hi>pub<g ref="char:EOLhyphen"/>lickly,</hi> making use again of the <hi>Bath</hi> for his head. Of late waiting on the most Serene <hi>Majesty</hi> of <hi>Charles</hi> the <hi>Second</hi> at <hi>Winchester,</hi> in Hawking time, and too much intent on the sport fell again, but using the <hi>Queen</hi> and <hi>Kings</hi> Bath, with the <hi>wet</hi> and <hi>dry</hi> Pumps for eight <hi>days,</hi> he returned with great hopes of doing well the last of <hi>September,</hi> 1684; and now so continues, being at this time well in <hi>London,</hi> this fifth of <hi>Feb<g ref="char:EOLhyphen"/>ruary</hi> 1694.</p>
+            </div>
+            <div n="28" type="observation">
+               <head>XXVIII.</head>
+               <p>
+                  <hi>Emanuel Weston,</hi> of <hi>Elsemore</hi> in
+<pb n="27" facs="tcp:94416:18"/>the County of <hi>Salop,</hi> 15 <hi>years</hi> of age, having had a <hi>scurf-head</hi> with many scales for the space of 5 <hi>years,</hi> using the <hi>Lepers</hi> Bath 20 <hi>times</hi> by <hi>bathing</hi> and <hi>washing</hi> the head only, without any <hi>other</hi> remedy, received <hi>Cure,</hi> 14 <hi>June</hi> 1682.</p>
+            </div>
+            <div n="29" type="observation">
+               <head>XXIX.</head>
+               <p>Another Person unknown, by the use of the <hi>Kings</hi> Bath, and application of the <hi>Mud,</hi> was <hi>cu<g ref="char:EOLhyphen"/>red</hi> of the <hi>same</hi> distemper, the <hi>same</hi> year.</p>
+            </div>
+            <div n="30" type="observation">
+               <head>XXX.</head>
+               <p>A <hi>third</hi> person in the <hi>like</hi> dis<g ref="char:EOLhyphen"/>ease was <hi>cured</hi> the <hi>same</hi> year, by the <hi>same</hi> Bath and <hi>Mud,</hi> 1682.</p>
+            </div>
+            <div n="31" type="observation">
+               <pb n="28" facs="tcp:94416:19"/>
+               <head>XXXI.</head>
+               <p>
+                  <hi>Margaret Garey,</hi> of the Parish of <hi>Aford</hi> in the County of <hi>Aber<g ref="char:EOLhyphen"/>deen</hi> in the <hi>Kingdom</hi> of <hi>Scotland,</hi> troubled with <hi>lameness,</hi> and run<g ref="char:EOLhyphen"/>ning Ulcers in <hi>both</hi> knees and <hi>left</hi> shoulder 3 <hi>years,</hi> by the use of the <hi>Hot</hi> and <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epers</hi> Bath, recei<g ref="char:EOLhyphen"/>ved <hi>cure,</hi> having discharged her <hi>Crutches</hi> she walked stoutly, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and shewed the parts aforesaid covered with <hi>skin</hi> and <hi>flesh,</hi> as before her complaints, 17 <hi>August</hi> 1682.</p>
+            </div>
+            <div n="32" type="observation">
+               <head>XXXII.</head>
+               <p>
+                  <hi>Mary Eliot,</hi> 14 years of age, Daughter of <hi>John Eliot</hi> Mer<g ref="char:EOLhyphen"/>chant Taylor of <hi>London,</hi> having many and foul eruptions in the skin, with <hi>rosie</hi> spots at first, af<g ref="char:EOLhyphen"/>terwards
+<pb n="29" facs="tcp:94416:19"/>white seales resembling an <hi>Elephantiasy</hi> from the time of her <hi>birth,</hi> using the <hi>King</hi> and <hi>Queens</hi> Bath fourteen days re<g ref="char:EOLhyphen"/>ceived <hi>cure</hi> 1682; the disease appearing again the <hi>Spring</hi> and <hi>Fall</hi> immediately following, the young woman now in the <hi>Spring</hi> time, without other help shew<g ref="char:EOLhyphen"/>ed a clear white skin and <hi>alto<g ref="char:EOLhyphen"/>gether</hi> sound from her former di<g ref="char:EOLhyphen"/>stemper in her <hi>Fathers</hi> House, 6 <hi>May</hi> 1686.</p>
+               <div type="note">
+                  <head>Note.</head>
+                  <p>That the Famous <hi>Dr. Willis</hi> in his practice of Physic, Sect. 3. c. 7. in <hi>this</hi> disease condemns the use of <hi>Sulphurous</hi> Baths, but per<g ref="char:EOLhyphen"/>haps, his not so well distinguish<g ref="char:EOLhyphen"/>ing this distemper, from an <hi>Impe<g ref="char:EOLhyphen"/>tigo, Ringworm,</hi> or <hi>Tetter.</hi> might occasion that censure; and the
+<pb n="30" facs="tcp:94416:20"/>use of the <hi>Bath</hi> but <hi>one</hi> Season, when two, three or more may be necessary, confirmed this opi<g ref="char:EOLhyphen"/>nion, the second or third <hi>Season</hi> amending, what was not rectifi<g ref="char:EOLhyphen"/>ed by the <hi>first.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="33" type="observation">
+               <head>XXIII.</head>
+               <p>Mr. <hi>John Cosens,</hi> of <hi>Hampshire,</hi> fifty years of age, sometime <hi>Gun<g ref="char:EOLhyphen"/>smith</hi> to his Majesty CHARLES II. against <hi>Norfolk-street</hi> in the <hi>Strand,</hi> of an <hi>Athletic</hi> habit of body, <hi>Sanguine,</hi> and somewhat <hi>plethoric,</hi> being suddenly seized with a <hi>numness,</hi> and in great part want of motion of all his limbs, but especially of the <hi>right</hi> Arm, having never used <hi>much</hi> Physick, and willing to take but <hi>one</hi> purging potion, in three or four <hi>times</hi> using the <hi>King</hi> and <hi>Queens</hi> Bath, fell into a <hi>total</hi>
+                  <pb n="31" facs="tcp:94416:20"/>loss of motion of hand and foot, which for the space of <hi>one</hi> or <hi>two</hi> days so afflicted him, that he could no way move himself, but had no want of sense; continu<g ref="char:EOLhyphen"/>ing the use of the <hi>same</hi> Baths, especially the <hi>Kings,</hi> and using a corroborating <hi>Lotion</hi> when out of the <hi>Bath</hi> in his bed, <hi>recovered</hi> his former motion, and returned well, 12 <hi>Sept.</hi> 1682. He conti<g ref="char:EOLhyphen"/>nues now well in <hi>London</hi> this 22 <hi>February</hi> 1694.</p>
+            </div>
+            <div n="34" type="observation">
+               <head>XXXIV.</head>
+               <p>To the <hi>former</hi> Cure, tho' somewhat <hi>before</hi> that, I shall add <hi>another</hi> like it. Some <hi>Devonshire</hi> men of the better rank, about the year 1676 came to <hi>Bath,</hi> partly out of <hi>curiosity</hi> to see the Baths, and partly to accompany one of the number that came
+<pb n="32" facs="tcp:94416:21"/>for <hi>cure</hi> of his lameness; after a <hi>week</hi> or <hi>fortnights</hi> use of the <hi>Bath</hi> the lame man in good mea<g ref="char:EOLhyphen"/>sure <hi>recovered,</hi> but one of the sound having a <hi>full</hi> body, and being in the nature of a <hi>Guide</hi> to the lame man, staying in the <hi>Bath</hi> longer than usual, fell <hi>lame.</hi> Being called to the sound man that was suddenly taken lame, I acquainted him with the cause, and giving him such purging and strengthning medicines as could be used in <hi>Bed,</hi> he was brought so forward, as that he might <hi>safely</hi> use the Bath again, and in ten times bathing in the <hi>same</hi> Bath, <hi>recovered</hi> that motion which for a time was <hi>wholly</hi> lost; so that like the so much fam'd <hi>Achilles</hi> his Spear, <hi>that made him sound, which gave the wound.</hi>
+               </p>
+            </div>
+            <div n="35" type="observation">
+               <pb n="33" facs="tcp:94416:21"/>
+               <head>XXXV.</head>
+               <p>
+                  <hi>John Pyke</hi> of <hi>Exeter,</hi> troubled with a <hi>pain</hi> in his Heels 7 <hi>years,</hi> could not <hi>stand</hi> without much pain, but <hi>sit</hi> and <hi>lye</hi> without pain; by four <hi>times</hi> using the <hi>Hot</hi> Bath, and standing <hi>long</hi> on the springs, received <hi>cure,</hi> 14 <hi>October</hi> 1682.</p>
+            </div>
+            <div n="36" type="observation">
+               <head>XXXVI.</head>
+               <p>Mrs. <hi>Ann Lane</hi> of <hi>Banbury,</hi> in the County of <hi>Oxon,</hi> Daughter to <hi>Josiah Lane,</hi> Doctor in <hi>Physic,</hi> and practising there, lame of the <hi>right</hi> side, and using two <hi>Crutches,</hi> came to <hi>Bath</hi> for relief. The <hi>first</hi> season of using the <hi>Cross</hi> Bath, gave so much benefit as to need only one Crutch. The <hi>next</hi> year, and two <hi>years</hi> following making use of the <hi>Kings</hi> Bath, walked
+<pb n="34" facs="tcp:94416:22"/>without <hi>Crutch,</hi> by the help of a staff, 14 <hi>June</hi> 1684. I saw her at <hi>Bath</hi> needing <hi>no</hi> staff, 28 <hi>June</hi> 1686.</p>
+            </div>
+            <div n="37" type="observation">
+               <head>XXXVII.</head>
+               <p>
+                  <hi>Francis Laughton,</hi> of the Pa<g ref="char:EOLhyphen"/>rish of <hi>St. Mark</hi> in <hi>Nottingham,</hi> an ingenious youth, came to <hi>Bath</hi> 5 of <hi>May</hi> 1684, lame on the <hi>right</hi> side, and with <hi>two</hi> staves instead of <hi>Crutches;</hi> he had also a <hi>tumour</hi> from <hi>toe</hi> to <hi>groin</hi> 18 <hi>months</hi> before, <hi>two</hi> running Ul<g ref="char:EOLhyphen"/>cers, <hi>one</hi> in the leg, <hi>another</hi> in the thigh; on the use of the <hi>Le<g ref="char:EOLhyphen"/>pers</hi> Bath two <hi>months</hi> the tumour fell, the <hi>Ʋlcers</hi> dried up, and all <hi>other</hi> complaints ceased, only some crookedness remained on the lame <hi>side,</hi> 6 <hi>June</hi> 1684.</p>
+            </div>
+            <div n="38" type="observation">
+               <pb n="35" facs="tcp:94416:22"/>
+               <head>XXXVIII.</head>
+               <p>An eminent <hi>Lawyer,</hi> against the advice of some <hi>eminent</hi> Phy<g ref="char:EOLhyphen"/>sicians in <hi>London,</hi> came to <hi>Bath,</hi> with great hazard of life in the Journey, miserably afflicted with swellings in the Feet, a <hi>Dropsy,</hi> and ill habit of Body; using the <hi>Cross</hi> Bath 3 or 4 weeks, to the <hi>admiration</hi> of himself and all be<g ref="char:EOLhyphen"/>holders, in great measure reco<g ref="char:EOLhyphen"/>vered. In <hi>July</hi> 1684, before he left the <hi>Bath,</hi> he declared pub<g ref="char:EOLhyphen"/>lickly he was <hi>cured.</hi>
+               </p>
+            </div>
+            <div n="39" type="observation">
+               <head>XXXIX.</head>
+               <p>Mr. <hi>Charles Child,</hi> Apothecary in <hi>Bath,</hi> having salt and <hi>acid</hi> hu<g ref="char:EOLhyphen"/>mours defluxing with <hi>much</hi> pain on the museles and <hi>tendons</hi> of the leg, and back of the foot,
+<pb n="36" facs="tcp:94416:23"/>in the nature of a <hi>Rheumatism,</hi> which made him lame; by the use of the <hi>Kings</hi> Bath 10 or 12 <hi>times</hi> received <hi>remedy,</hi> and walk<g ref="char:EOLhyphen"/>ed as a sound man, 30 <hi>September</hi> 1684. Pain and weakness <hi>some<g ref="char:EOLhyphen"/>times</hi> return, but are <hi>always</hi> ta<g ref="char:EOLhyphen"/>ken off by the use of the <hi>Kings</hi> Bath.</p>
+            </div>
+            <div n="40" type="observation">
+               <head>XL.</head>
+               <p>
+                  <hi>Edward Shepheard,</hi> Joyner of <hi>Bath,</hi> troubled from his <hi>Childhood</hi> with a <hi>Palsey</hi> in the <hi>Tongue,</hi> that he could neither speak <hi>plain,</hi> nor swallow <hi>well,</hi> swimming in the <hi>Bath,</hi> and diving for <hi>farthings</hi> as Boys use to do, applying his mouth to a <hi>Cock</hi> then continu<g ref="char:EOLhyphen"/>ally running, and taking the wa<g ref="char:EOLhyphen"/>ter to the <hi>root</hi> of the Tongue for a long time, at <hi>length</hi> reco<g ref="char:EOLhyphen"/>vered the use of his voice, and
+<pb n="37" facs="tcp:94416:23"/>
+                  <hi>strength</hi> of the muscles of the Tongue subservient to the same: with a strong and <hi>audible</hi> voice he related the same 26 <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1684.</p>
+            </div>
+            <div n="41" type="observation">
+               <head>XLI.</head>
+               <p>Mr. <hi>William Perkins</hi> of <hi>London,</hi> in the same disease, much <hi>older</hi> than the former, using the <hi>Kings</hi> Bath, and gargling with the <hi>wa<g ref="char:EOLhyphen"/>ter</hi> of the same, received <hi>benefit</hi> 20 <hi>October</hi> 1684. Two years af<g ref="char:EOLhyphen"/>ter he spake much plainer, and acknowledged the <hi>benefit</hi> recei<g ref="char:EOLhyphen"/>ved from the <hi>Bath,</hi> 8 of <hi>March</hi> 1686.</p>
+            </div>
+            <div n="42" type="observation">
+               <head>XLII.</head>
+               <p>The Honourable Sir <hi>Robert Holmes</hi> Knight, and Governour of the <hi>Isle of Wight,</hi> in <hi>old</hi> aches
+<pb n="38" facs="tcp:94416:24"/>and <hi>bruises</hi> received at Sea, found nothing more beneficial than the use of the <hi>Bath,</hi> which he gene<g ref="char:EOLhyphen"/>rally made use of <hi>every</hi> year, and testified by three <hi>brass rings</hi> gi<g ref="char:EOLhyphen"/>ven to the <hi>Hot</hi> Bath, 1683. He used the Bath for the <hi>Gout</hi> in his <hi>right</hi> hand 20 <hi>September</hi> 1688.</p>
+            </div>
+            <div n="43" type="observation">
+               <head>XLIII.</head>
+               <p>Mrs. <hi>Elizabeth Jorden,</hi> Wife to <hi>John Jorden</hi> of <hi>Stifford</hi> in the County of <hi>Essex,</hi> Esq; came to <hi>Bath</hi> 1684, and using the <hi>Queens</hi> Bath three <hi>weeks,</hi> received <hi>cure</hi> of her right arm, which had been long weak, and deprived of motion. Related by her <hi>Hus<g ref="char:EOLhyphen"/>band</hi> 5 <hi>May</hi> 1686.</p>
+            </div>
+            <div n="44" type="observation">
+               <head>XLIV.</head>
+               <p>The Noble Lady <hi>S.</hi> in the
+<pb n="39" facs="tcp:94416:24"/>
+                  <hi>Rheumatism</hi> and <hi>Gout,</hi> received <hi>benefit</hi> by the <hi>Cross</hi> Bath 1685.</p>
+            </div>
+            <div n="45" type="observation">
+               <head>XLV.</head>
+               <p>Collonel <hi>Oliver Nichlis</hi> having received <hi>great benefit</hi> by the <hi>Kings</hi> Bath in the <hi>Palsey,</hi> was confirm<g ref="char:EOLhyphen"/>ed in the same by <hi>drinking</hi> the waters twenty one <hi>days</hi> in <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1685. He drank the waters <hi>again</hi> 1686.</p>
+            </div>
+            <div n="46" type="observation">
+               <head>XLVI.</head>
+               <p>
+                  <hi>Joan Lowther</hi> of <hi>Bristol,</hi> thir<g ref="char:EOLhyphen"/>ty eight years of age, lame on the <hi>right</hi> side after lying-in, the beginning of <hi>May</hi> 1685, 17 <hi>July</hi> following come to <hi>Bath,</hi> and using the <hi>King</hi> and <hi>Queens</hi> Bath every day for six <hi>weeks</hi> had 1200 pumps on the side affected, and whereas at her coming to <hi>Bath</hi>
+                  <pb n="40" facs="tcp:94416:25"/>she could not move at all with<g ref="char:EOLhyphen"/>out help, she hung up her <hi>Crut<g ref="char:EOLhyphen"/>ches</hi> and walked without a staff, returning <hi>well</hi> home, 28 <hi>August</hi> 1685.</p>
+            </div>
+            <div n="47" type="observation">
+               <head>XLVII.</head>
+               <p>A Gentlewoman of <hi>Wells</hi> 32 years of Age, and twelve <hi>years</hi> married but <hi>not with Child,</hi> ta<g ref="char:EOLhyphen"/>ken suddenly with the <hi>Palsey</hi> of the <hi>left</hi> side, and for ten <hi>months</hi> before using all kind of Reme<g ref="char:EOLhyphen"/>dies, at last came to <hi>Bath</hi> fifteen miles distant, 1664; where after usual preparations and the use of some <hi>internal</hi> Remedies, the <hi>first</hi> Season she spent about six <hi>weeks</hi> in the use of the <hi>Bath,</hi> de<g ref="char:EOLhyphen"/>sisting then by reason of the winter approaching, but the <hi>be<g ref="char:EOLhyphen"/>nefit</hi> received at the end of the year <hi>last</hi> past gave encourage<g ref="char:EOLhyphen"/>ment
+<pb n="41" facs="tcp:94416:25"/>to her being <hi>early</hi> there the <hi>next</hi> Spring; where bathing <hi>all that Season,</hi> and the <hi>Summer</hi> season following, she not only <hi>recovered</hi> the use of her <hi>arm, hand, tongue,</hi> and in <hi>good measure</hi> the <hi>leg,</hi> but returning to her Husband not many <hi>weeks</hi> after she <hi>conceived,</hi> and in the space of eighteen <hi>months</hi> was brought to Bed and miscarried of five <hi>Children,</hi> the <hi>Palsey</hi> never after returning again. Dr. <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <hi>Bath</hi> hath testified this in <hi>Transact. Philsoph.</hi> N. 169, who saw the party twenty <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>years</hi> after her using the <hi>Bath</hi> free from the <hi>Pal<g ref="char:EOLhyphen"/>sey,</hi> with a numerous issue, 1685.</p>
+            </div>
+            <div n="48" type="observation">
+               <head>XLVIII.</head>
+               <p>
+                  <hi>E. G. Daughter</hi> of <hi>R. G.</hi> of <hi>Bath,</hi> Musician, having been <hi>from her birth</hi> troubled with a
+<pb n="42" facs="tcp:94416:26"/>
+                  <hi>scurfy and scaly head,</hi> like an <hi>Ele<g ref="char:EOLhyphen"/>phantiasy</hi> or <hi>Leprosy,</hi> being also much afflicted with a <hi>fever</hi> and pains in the <hi>bowels;</hi> from which she was freed almost as soon as born, by my advice, as the <hi>Pa<g ref="char:EOLhyphen"/>rents</hi> did acknowledge, by the use of the <hi>Kings</hi> Bath, and ap<g ref="char:EOLhyphen"/>plication of the <hi>Mud</hi> of the same, and some proper <hi>external</hi> Reme<g ref="char:EOLhyphen"/>dies, had a sound <hi>head</hi> and <hi>thick</hi> hair, as if she never had been troubled with the former disease. This I saw 5 <hi>November</hi> 1685.</p>
+            </div>
+            <div n="49" type="observation">
+               <head>XLIX.</head>
+               <p>Mr. <hi>Arthur Sherstone,</hi> of <hi>Brom<g ref="char:EOLhyphen"/>ham</hi> in the County of <hi>Wilts,</hi> now at the <hi>Devizes,</hi> near 50 <hi>years</hi> of age, after a short Jour<g ref="char:EOLhyphen"/>ney was taken with a <hi>Rheumatism,</hi> which after violent pains univer<g ref="char:EOLhyphen"/>sal, seized on particular parts, <hi>viz.
+<pb n="43" facs="tcp:94416:26"/>hand, knee,</hi> and <hi>foot,</hi> in the na<g ref="char:EOLhyphen"/>ture of the <hi>Gout.</hi> He also <hi>lost</hi> the motion of his <hi>lower</hi> Limbs, so that he was carried by <hi>Thomas Broad</hi> then his Servant, from the Bed to the Fire-side. Bleeding <hi>once</hi> or <hi>twice</hi> at the arm, in larger quantity than usual, and taking Medicines <hi>inwardly,</hi> and using ap<g ref="char:EOLhyphen"/>plications <hi>external</hi> in a due and regular manner, without the <hi>Bath,</hi> the inflamations and tu<g ref="char:EOLhyphen"/>mours in the legs and feet (as in <hi>Hydropical</hi> persons) in great mea<g ref="char:EOLhyphen"/>sure <hi>went off;</hi> the legs and feet <hi>regaining</hi> their proper motion. But the running pains continuing, and the humours remaining set<g ref="char:EOLhyphen"/>tling on the <hi>Nerves, Muscles</hi> and <hi>Tendons</hi> of the <hi>right</hi> and left arm, so as to take away by turns, the use of both, I committed the Pati<g ref="char:EOLhyphen"/>ent, very strong in his <hi>lower</hi> Limbs, to the moderate use of the tem<g ref="char:EOLhyphen"/>perate
+<pb n="44" facs="tcp:94416:27"/>
+                  <hi>Queens</hi> Bath in the <hi>Winter</hi> Season, by the use of which his Arms received motion as before, and the pains first <hi>ceased</hi> then <hi>dis<g ref="char:EOLhyphen"/>charged:</hi> the Patient grew <hi>well</hi> 4 <hi>December</hi> 1685. He was <hi>well</hi> at <hi>Bath</hi> of that disease 7 <hi>September</hi> 1688.</p>
+            </div>
+            <div n="50" type="observation">
+               <head>L.</head>
+               <p>Mr. <hi>George Kelly</hi> of <hi>Russel-street, Covent-Garden,</hi> Barber, 32 <hi>years</hi> of age, having been long troubled and almost worn out by extream tormenting <hi>pains</hi> in his <hi>stomach</hi> and <hi>guts,</hi> with an ill affected ha<g ref="char:EOLhyphen"/>bit of the stomach; he had more<g ref="char:EOLhyphen"/>over a <hi>Hectic Feaver,</hi> a <hi>quotidian intermittent,</hi> and entred into a <hi>Consumption.</hi> In this condition he <hi>drank</hi> the waters of the <hi>Kings</hi> Bath and dry Pump there four<g ref="char:EOLhyphen"/>teen <hi>days,</hi> from three <hi>pints</hi> to
+<pb n="45" facs="tcp:94416:27"/>eight, and at a <hi>fortnights</hi> end per<g ref="char:EOLhyphen"/>cieved considerable <hi>benefit,</hi> and continuing drinking a <hi>fortnight longer,</hi> found <hi>greater</hi> benefit eve<g ref="char:EOLhyphen"/>ry day, and in a <hi>months</hi> time re<g ref="char:EOLhyphen"/>covered a <hi>perfect</hi> state of health, which he now enjoys. He <hi>bath<g ref="char:EOLhyphen"/>ed</hi> toward the <hi>end</hi> of the time four <hi>times</hi> in the <hi>Hot</hi> or <hi>Long</hi> Bath at night, after the waters had freely passed the <hi>day</hi> before. He gave this Testimony, being un<g ref="char:EOLhyphen"/>der my Cure 24 <hi>July</hi> 1686; and subscribed <hi>George Kelly.</hi>
+               </p>
+            </div>
+            <div n="51" type="observation">
+               <head>LI.</head>
+               <p>Mr. <hi>Henry Owen,</hi> at the Sign of the <hi>Angel</hi> and <hi>Crown</hi> in <hi>Thread-needle-street, London,</hi> troubled with an ill <hi>digestion, wind, obstru<g ref="char:EOLhyphen"/>ction</hi> of <hi>Ʋrine,</hi> and tormenting griping pains of the <hi>bowels,</hi> came to <hi>Bath</hi> the <hi>second</hi> time (the <hi>first</hi>
+                  <pb n="46" facs="tcp:94416:28"/>proving ineffectual) 1686, where he continued six <hi>weeks,</hi> and <hi>dra<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> only three <hi>pints</hi> of the water fo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a <hi>week</hi> at the <hi>Kings</hi> Bath, and bathing fifteen <hi>days</hi> in the <hi>Cros<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Bath, drank the waters of <hi>that</hi> Bath every day three <hi>pints</hi> du<g ref="char:EOLhyphen"/>ring that time, and received <hi>cure</hi> on the place, which he found by degrees. After leaving the <hi>Bath</hi> he voided a great quantity of <hi>Sabulous</hi> and <hi>Turbid</hi> matter, for three <hi>months</hi> time, in his <hi>Ʋrine;</hi> and now from a <hi>thin, Consumptive</hi> and <hi>deplored</hi> habit of body, he is become <hi>fleshy,</hi> of a good countenance and concoction, and laudable healthy temper. This Account I had from his own mouth 8 <hi>February</hi> 1686, and now continues <hi>Master</hi> of the same house, in <hi>good</hi> health, 6 <hi>February</hi> 1694.</p>
+            </div>
+            <div n="52" type="observation">
+               <pb n="47" facs="tcp:94416:28"/>
+               <head>LII.</head>
+               <p>Mr. <hi>Moses Levermore,</hi> Chirur<g ref="char:EOLhyphen"/>geon at <hi>Nevis,</hi> afflicted with the <hi>Colic,</hi> or <hi>Belly-ake,</hi> which after<g ref="char:EOLhyphen"/>wards turned to the <hi>Palsey;</hi> by the use of the <hi>Kings</hi> and <hi>Cross</hi> Bath, but especially the <hi>Cross,</hi> received <hi>cure</hi> 3 <hi>September</hi> 1686. I saw him <hi>well</hi> in <hi>London</hi> 1688, 20 of <hi>June.</hi>
+               </p>
+            </div>
+            <div n="53" type="observation">
+               <head>LIII.</head>
+               <p>
+                  <hi>Elias Pomeroy,</hi> in the County <hi>Devon,</hi> Esq; having the same dis<g ref="char:EOLhyphen"/>ease, and using the <hi>Kings</hi> Bath little more than <hi>one</hi> month found <hi>great benefit;</hi> he had also many times six <hi>hundred</hi> pumps from the <hi>dry-pump</hi> on the weak hand; four <hi>September</hi> 1686. In <hi>both</hi> these persons the Muscle at the root of
+<pb n="48" facs="tcp:94416:29"/>the <hi>right</hi> Thumb sunk very much, as observed in <hi>Peter Bonanry,</hi> Sub<g ref="char:EOLhyphen"/>dean of <hi>Guernsey, N.</hi> 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <div n="54" type="observation">
+               <head>LIV.</head>
+               <p>Mr. <hi>John Trevor,</hi> having recei<g ref="char:EOLhyphen"/>ved a blow on the <hi>fore-part</hi> of the <hi>head, os petrosum,</hi> and <hi>tempo<g ref="char:EOLhyphen"/>ral muscle,</hi> which much affected, and as it were <hi>shook</hi> the brain, not without imminent <hi>danger</hi> of life, and <hi>present</hi> injury both of <hi>memory</hi> and <hi>health;</hi> came to <hi>Bath</hi> the beginning of <hi>August</hi> 1686. After a <hi>months</hi> continuance there and use of the <hi>Cross</hi> Bath, and Pump belonging to that <hi>Bath,</hi> on the <hi>head</hi> and <hi>nape</hi> of the neck, he found <hi>great benefit,</hi> and ac<g ref="char:EOLhyphen"/>knowledged himself to be in a <hi>fair</hi> way of recovery, 3 <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1686. I saw him much bet<g ref="char:EOLhyphen"/>ter at <hi>Rochester</hi> 26 <hi>April</hi> 1688,
+<pb n="49" facs="tcp:94416:29"/>which at that time he imputed to the <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="55" type="observation">
+               <head>LV.</head>
+               <p>Mr. <hi>John Worley,</hi> Vintner at the <hi>Bull-head-Tavern</hi> in <hi>Clare-mar<g ref="char:EOLhyphen"/>ket,</hi> troubled with the <hi>scurvy,</hi> and ill disposition of blood, whence <hi>eruptions</hi> in the skin, and hard <hi>bumbs</hi> in the same, like the sting<g ref="char:EOLhyphen"/>ing of <hi>Nettles,</hi> which gave him no small trouble; <hi>drank</hi> the wa<g ref="char:EOLhyphen"/>ters at the <hi>Kings</hi> Bath three weeks, commonly <hi>seven</hi> pints, and at most <hi>nine;</hi> after seven <hi>times</hi> bathing in the <hi>Kings</hi> Bath was <hi>freed</hi> of that distemper. He gave testimony 4 <hi>September</hi> 1686.</p>
+            </div>
+            <div n="56" type="observation">
+               <head>LVI.</head>
+               <p>Mr. <hi>Nicholas Tirvannion</hi> of <hi>London,</hi> a <hi>Portugal</hi> Merchant, a
+<pb n="50" facs="tcp:94416:30"/>man of <hi>antient</hi> make and <hi>probity,</hi> in an <hi>elderly</hi> age, being troubled with a <hi>Sciatica</hi> or <hi>Hip-Gout,</hi> which had much tormented him four <hi>mouths,</hi> came to <hi>Bath</hi> for cure 19 <hi>August</hi> 1686; and using the <hi>Kings</hi> Bath only three <hi>weeks,</hi> with 3000 Pumps on the part affected, went away <hi>well,</hi> and so remain<g ref="char:EOLhyphen"/>ed free from pain and impedi<g ref="char:EOLhyphen"/>ment in motion 17 <hi>January</hi> 1686. where I had this from his own mouth, at his House in <hi>London,</hi> and went <hi>very well</hi> into <hi>Portugal</hi> 1688.</p>
+            </div>
+            <div n="57" type="observation">
+               <head>LVII.</head>
+               <p>Mr. <hi>John Pargiter,</hi> Merchant of <hi>London,</hi> trading the same way, having <hi>old aches,</hi> with too <hi>hot</hi> and <hi>sharp</hi> a disposition of the blood; <hi>drank</hi> the waters, and sometimes <hi>bathed</hi> two <hi>months,</hi>
+                  <pb n="51" facs="tcp:94416:30"/>and found <hi>great benefit,</hi> 10 <hi>August</hi> 1686. He used the <hi>Bath,</hi> and <hi>drank</hi> the waters 1690, and 1693, and was <hi>cured.</hi>
+               </p>
+            </div>
+            <div n="58" type="observation">
+               <head>LVIII.</head>
+               <p>
+                  <hi>William Day,</hi> of <hi>Deptford</hi> in the County of <hi>Kent,</hi> Shipwright, receiving a fall in a Ship, and ly<g ref="char:EOLhyphen"/>ing <hi>hard</hi> in the same, was much afflicted with a <hi>Sciatica,</hi> which held him <hi>one</hi> year, notwith<g ref="char:EOLhyphen"/>standing all the help he could meet with in that time, came to <hi>Bath</hi> 1674, using Crutches, with<g ref="char:EOLhyphen"/>out which he could not move. After a <hi>fortnights</hi> bathing in the <hi>Kings</hi> and <hi>Queens</hi> Bath, and pumping, not exceeding 500 at <hi>one</hi> time, began to go without his <hi>Crutches,</hi> and a <hi>few</hi> weeks after hung up his <hi>Crutches</hi> in triumph over the disease. I heard
+<pb n="52" facs="tcp:94416:31"/>the honest man <hi>this day</hi> thank<g ref="char:EOLhyphen"/>fully acknowledge at <hi>London</hi> his <hi>cure</hi> by the <hi>Bath,</hi> and saw him strong and stoutly walking twelve years after, 9 <hi>May</hi> 1687. Mr. <hi>Charles Gery</hi> Apothecary in <hi>Fan<g ref="char:EOLhyphen"/>church-street, London,</hi> then pre<g ref="char:EOLhyphen"/>sent.</p>
+            </div>
+            <div n="59" type="observation">
+               <head>LIX.</head>
+               <p>
+                  <hi>Charles Willoughby,</hi> Doctor in Physick, and famous Practitioner in <hi>Dublin,</hi> troubled with the <hi>Gout,</hi> by the use of the <hi>Queens</hi> Bath recived <hi>benefit.</hi> The fit that usu<g ref="char:EOLhyphen"/>ally came at a certain time, the <hi>Bath</hi> kept off a <hi>month</hi> longer, and much promoting perspirati<g ref="char:EOLhyphen"/>on, gave <hi>great</hi> hopes of <hi>shorter</hi> and <hi>milder</hi> returns. He gave Testimony 7 <hi>October</hi> 1687 at <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="60" type="observation">
+               <pb n="53" facs="tcp:94416:31"/>
+               <head>LX.</head>
+               <p>
+                  <hi>John W.</hi> of <hi>London</hi> having an <hi>Ʋniversal Palsey</hi> after a <hi>Rheuma<g ref="char:EOLhyphen"/>tism,</hi> and too much bleeding, so that for a long time he used <hi>Crutches,</hi> by the use of the <hi>King</hi> and <hi>Queens</hi> Bath 1680, and <hi>some</hi> years following, received <hi>cure;</hi> and tho very well, in a grateful acknowledgment of his <hi>cure,</hi> fre<g ref="char:EOLhyphen"/>quented the <hi>Bath.</hi> Related at <hi>London</hi> 2 <hi>December</hi> 1687. I saw him <hi>well</hi> at the <hi>Bath</hi> 10 <hi>August</hi> 1688.</p>
+            </div>
+            <div n="61" type="observation">
+               <head>LXI.</head>
+               <p>
+                  <hi>Cornelius Dyer</hi> of <hi>Hedington</hi> in the County of <hi>Wilts,</hi> seventeen <hi>years</hi> of age, having his <hi>Ham</hi> contracted five <hi>years,</hi> and tyred with advice of many Physicians,
+<pb n="54" facs="tcp:94416:32"/>came to <hi>Bath</hi> 1664; and using the <hi>King</hi> and <hi>Queens</hi> Bath six <hi>times,</hi> had the contracted Ham <hi>relaxed</hi> and strengthned, and in fifteen <hi>days</hi> perfectly <hi>recovered,</hi> and so continu'd at <hi>this</hi> time of giving Testimony, 25 <hi>June</hi> 1687 at <hi>London,</hi> then forty <hi>years</hi> of Age.</p>
+            </div>
+            <div n="62" type="observation">
+               <head>LXII.</head>
+               <p>A Gentlewoman spitting much blood, after the unsuccessful use of divers means for cure, came to <hi>Bath</hi> with hazard of life, and drinking the waters cold, and never use the <hi>Bath,</hi> received cure. She gave testimony at <hi>Bath</hi> in <hi>July</hi> 1688.</p>
+            </div>
+            <div n="63" type="observation">
+               <pb n="55" facs="tcp:94416:32"/>
+               <head>LXIII.</head>
+               <p>
+                  <hi>William Headach</hi> of <hi>Gillingham</hi> in the County of <hi>Dorset,</hi> Shooe<g ref="char:EOLhyphen"/>maker, twenty two years of age, lame in his <hi>lower</hi> limbs, came to <hi>Bath</hi> 5 <hi>May</hi> 1687. The parts affected wanted <hi>sense</hi> and <hi>moti<g ref="char:EOLhyphen"/>on,</hi> Hams <hi>contracted,</hi> and Legs so <hi>vexed</hi> with Cramps, that being contracted they stood crooked, till by main strength they were stretched out again. After three <hi>weeks</hi> using the <hi>Kings</hi> Bath, and <hi>once</hi> the <hi>Queens,</hi> went away with<g ref="char:EOLhyphen"/>out any <hi>sensible</hi> benefit; but af<g ref="char:EOLhyphen"/>ter eight <hi>weeks</hi> time at <hi>home</hi> he perceived strength to come on by degrees, and about <hi>Michael<g ref="char:EOLhyphen"/>mas</hi> fell to his trade of making Shooes, and <hi>this</hi> year came twen<g ref="char:EOLhyphen"/>ty <hi>miles</hi> on foot, on no other account than to see the <hi>Bath</hi>
+                  <pb n="56" facs="tcp:94416:33"/>had done him so much good, and is <hi>now</hi> in <hi>perfect</hi> sense and moti<g ref="char:EOLhyphen"/>on of all his limbs, which he te<g ref="char:EOLhyphen"/>stified 23 of <hi>June</hi> 1688, giving glory to GOD, and honour to the <hi>Bath,</hi> by hanging up his <hi>Crutches</hi> near the Throne of K. <hi>Bladud,</hi> over the parting of the <hi>Kings</hi> from the <hi>Queens</hi> Bath.</p>
+            </div>
+            <div n="64" type="observation">
+               <head>LXIV.</head>
+               <p>
+                  <hi>Hugh Ivy,</hi> Master of Arts and <hi>Rector</hi> of <hi>Foscot</hi> near <hi>Bath</hi> in the County of <hi>Somerset,</hi> in two great <hi>bulk</hi> of body, and <hi>corpulent</hi> habit, <hi>drank</hi> the waters of the dry-pump <hi>Kings</hi> Bath, and acknowledged <hi>benefit</hi> the latter end of <hi>August</hi> 1688.</p>
+            </div>
+            <div n="65" type="observation">
+               <pb n="57" facs="tcp:94416:33"/>
+               <head>LXV.</head>
+               <p>
+                  <hi>Joan Binmore</hi> of <hi>Exeter,</hi> for <hi>be<g ref="char:EOLhyphen"/>nefit</hi> received in the <hi>Rheumatism,</hi> which had superinduced both <hi>Palsey</hi> and <hi>Dropsy,</hi> by <hi>drinking</hi> the waters, and use of the <hi>Mud</hi> of the <hi>Kings</hi> Bath, gave <hi>thanks</hi> publickly in the Church of St. <hi>Peter</hi> and <hi>Paul</hi> at <hi>Bath</hi> 20 <hi>August</hi> 1688.</p>
+            </div>
+            <div n="66" type="observation">
+               <head>LXVI.</head>
+               <p>
+                  <hi>Another</hi> Woman, a Stranger, troubled with the <hi>Palsey,</hi> and Lodging in the House of <hi>Thomas Parker</hi> Chairman at <hi>Bath,</hi> at the <hi>same</hi> time acknowledged <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="67" type="observation">
+               <pb n="58" facs="tcp:94416:34"/>
+               <head>LXVII.</head>
+               <p>A <hi>Gentlewoman</hi> of Quality of <hi>London,</hi> after tryal of <hi>many</hi> Phy<g ref="char:EOLhyphen"/>sicians there, continuing <hi>grievous<g ref="char:EOLhyphen"/>ly</hi> troubled night and day with the <hi>Whites,</hi> when she came to <hi>Bath,</hi> entered the <hi>Cross</hi> Bath, by my advice, 27 <hi>July</hi> 1688, and within the space of <hi>one</hi> month, bathing gently in the <hi>Bath</hi> afore<g ref="char:EOLhyphen"/>said, and making no use of Medi<g ref="char:EOLhyphen"/>cines she brought with her, after three <hi>times</hi> bathing from the time she came to 24 of <hi>August,</hi> I write this account, heard nothing of her disease, and declared she was free from it 23 <hi>August</hi> 1688, and so continues 9 <hi>February</hi> 1694. In this noble Person, the <hi>Womb,</hi> and parts about it being weak<g ref="char:EOLhyphen"/>ned by <hi>hard labour,</hi> were strength<g ref="char:EOLhyphen"/>ned
+<pb n="59" facs="tcp:94416:34"/>by the <hi>Bath,</hi> she also <hi>drunk</hi> the waters moderately.</p>
+            </div>
+            <div n="68" type="observation">
+               <head>LXVIII.</head>
+               <p>Mrs. <hi>Elizabeth Booth,</hi> in me<g ref="char:EOLhyphen"/>mory of her <hi>cure</hi> of lameness re<g ref="char:EOLhyphen"/>ceived by the <hi>Cross</hi> Bath, hung up her <hi>Staff</hi> against new <hi>marble</hi> Cross, erected by <hi>JOHN</hi> Earl of <hi>Melfort,</hi> in the middle of <hi>that</hi> Bath, 3 <hi>September</hi> 1688.</p>
+            </div>
+            <div n="69" type="observation">
+               <head>LXIX.</head>
+               <p>Mrs. <hi>Noble</hi> returned lame to <hi>London</hi> after <hi>long</hi> use of the <hi>Kings</hi> Bath, in a very <hi>disconso<g ref="char:EOLhyphen"/>late</hi> condition, but in <hi>short</hi> time after <hi>writ</hi> she found <hi>great benefit,</hi> in <hi>August</hi> 1688.</p>
+            </div>
+            <div n="70" type="observation">
+               <pb n="60" facs="tcp:94416:35"/>
+               <head>LXX.</head>
+               <p>
+                  <hi>Another</hi> lame woman of <hi>Here<g ref="char:EOLhyphen"/>fordshire,</hi> by the use of the <hi>Kings</hi> Bath <hi>one</hi> Season, received <hi>cure</hi> on the place in the <hi>same</hi> year and month.</p>
+            </div>
+            <div n="71" type="observation">
+               <head>LXXI.</head>
+               <p>Mr. <hi>Collins Woolrich</hi> Apotheca<g ref="char:EOLhyphen"/>ry in <hi>Salop,</hi> long troubled with <hi>frequent Vomitings,</hi> a weak <hi>Sto<g ref="char:EOLhyphen"/>mach,</hi> ill <hi>Concoction,</hi> want of <hi>Ap<g ref="char:EOLhyphen"/>petite,</hi> and slippery <hi>Bowels,</hi> drink<g ref="char:EOLhyphen"/>ing the water at the <hi>Kings</hi> Bath received <hi>cure,</hi> and gave publick thanks in the great Church of <hi>Bath,</hi> dedicated to the memory of the Apostles <hi>Peter</hi> and <hi>Paul,</hi> 7 <hi>September</hi> 1688.</p>
+            </div>
+            <div n="72" type="observation">
+               <pb n="61" facs="tcp:94416:35"/>
+               <head>LXXII.</head>
+               <p>Mr. <hi>Robert Harrington</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> having been a long time <hi>greatly</hi> afflicted with the <hi>Spleen,</hi> the <hi>Tone</hi> of the <hi>stomach</hi> and <hi>bowels</hi> being too much <hi>relaxed</hi> by over-purgations and <hi>wind;</hi> confessed he received much <hi>be<g ref="char:EOLhyphen"/>nefit</hi> by bathing in the <hi>Queens</hi> and <hi>Kings</hi> Baths 7 <hi>September</hi> 1688. He said the <hi>drinking</hi> the water did not agree. This a<g ref="char:EOLhyphen"/>mong <hi>anomalous</hi> Observations.</p>
+            </div>
+            <div n="73" type="observation">
+               <head>LXXIII.</head>
+               <p>
+                  <hi>Fisher Littleton</hi> Doctor of Laws, residing and practising at <hi>Doctors Commons</hi> in <hi>London,</hi> much afflict<g ref="char:EOLhyphen"/>ed with <hi>Colic pains,</hi> and finding no relief from advice of very <hi>eminent</hi> Physicians, at the point
+<pb n="62" facs="tcp:94416:36"/>of <hi>death,</hi> came to <hi>Bath</hi> for ease, and <hi>drank</hi> the Waters at the <hi>Kings</hi> Bath at fit seasons <hi>many</hi> days, especially <hi>Spring</hi> and <hi>Fall,</hi> for two years. The <hi>first</hi> year he received <hi>good,</hi> the <hi>second</hi> in a manner <hi>recovered,</hi> wanting <hi>very</hi> little of a <hi>Cure,</hi> which he <hi>after<g ref="char:EOLhyphen"/>wards</hi> obtained by the <hi>same</hi> means. He gave Testimony 24 <hi>Septemb.</hi> 1688. For further Con<g ref="char:EOLhyphen"/>firmation he <hi>drank</hi> the Waters <hi>a<g ref="char:EOLhyphen"/>gain</hi> 1690.</p>
+            </div>
+            <div n="74" type="observation">
+               <head>LXXIV.</head>
+               <p>Mr. <hi>Henry Higdon</hi> of <hi>London,</hi> 16 <hi>years</hi> of age, having <hi>half</hi> his body from the <hi>Navel</hi> downwards, <hi>nummed</hi> and very weak in <hi>De<g ref="char:EOLhyphen"/>cember</hi> before, with contractions in the <hi>lower</hi> Limbs, <hi>total</hi> loss of <hi>motion,</hi> but not of <hi>sense,</hi> came to <hi>Bath</hi> 6 <hi>May</hi> 1687, and using
+<pb n="63" facs="tcp:94416:36"/>the <hi>King</hi> and <hi>Queens</hi> Baths two <hi>months,</hi> went away out of heart, without any <hi>benefit.</hi> After one weeks stay at <hi>home</hi> he found in the parts formerly benummed a <hi>sense</hi> of pain not very trouble<g ref="char:EOLhyphen"/>some, but easie to be born, the <hi>animal</hi> spirits then beginning to <hi>creep</hi> and resume their motion, from which time strength <hi>every</hi> day increased, so that in a <hi>months</hi> time he could move two or three <hi>steps</hi> with a very little help; after <hi>another</hi> month more, and by the blessing of <hi>GOD,</hi> about <hi>Christmas</hi> he walked with<g ref="char:EOLhyphen"/>out a staff, and the twenty first of <hi>April</hi> walked abroad, and now useth a staff for <hi>fashion</hi> sake only, not for <hi>necessity.</hi> This ac<g ref="char:EOLhyphen"/>count from his own mouth 24 <hi>September</hi> 1688 at <hi>Bath,</hi> when using the <hi>Kings</hi> Bath for confir<g ref="char:EOLhyphen"/>mation, he gave <hi>publick</hi> thanks
+<pb n="64" facs="tcp:94416:37"/>to <hi>GOD,</hi> the prime Founder and <hi>Creator</hi> of the <hi>Baths,</hi> whence all <hi>good</hi> things come, and subscribed <hi>Henry Higdon.</hi>
+               </p>
+            </div>
+            <div n="75" type="observation">
+               <head>LXXV.</head>
+               <p>
+                  <hi>Ambrose Gill,</hi> of <hi>Bradnitch</hi> in the County of <hi>Devon,</hi> forty two years of age, having a <hi>general</hi> weakness in <hi>all</hi> his Limbs four<g ref="char:EOLhyphen"/>teen <hi>years,</hi> and thirteen <hi>weeks</hi> before his coming to <hi>Bath</hi> so weak that he could not go, came to <hi>Bath</hi> on Horseback 10 <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1688, used the <hi>Kings</hi> and <hi>Queens</hi> Bath fourteen <hi>days,</hi> drank somewhat of the waters when he <hi>bathed,</hi> and more when he bathed <hi>not,</hi> and 25 <hi>September</hi> went away <hi>cured.</hi> This I had from Mr. <hi>Ralph Fowler,</hi> who was with him all the time at <hi>Bath,</hi> and saw <hi>Gill</hi> go away
+<pb n="65" facs="tcp:94416:37"/>with the use of all his Limbs.</p>
+            </div>
+            <div n="76" type="observation">
+               <head>LXXVI.</head>
+               <p>
+                  <hi>Thomas Bonny</hi> of <hi>London,</hi> fif<g ref="char:EOLhyphen"/>teen <hi>years</hi> of Age, having for a <hi>long</hi> time had a <hi>Fistula</hi> in the in<g ref="char:EOLhyphen"/>ner part of his right Thigh, <hi>much</hi> swollen from the <hi>Groyn</hi> to the Knee, in the month of <hi>August</hi> 1688, came to <hi>Bath,</hi> and bathing in the <hi>Kings</hi> and <hi>Queens</hi> Bath, and sometimes <hi>drinking</hi> of the waters there, the sinuous <hi>Ʋlcer</hi> became cleansed, the Orifice al<g ref="char:EOLhyphen"/>most closed, and the <hi>Tumour</hi> a<g ref="char:EOLhyphen"/>bated. He declared this <hi>benefit</hi> 1 <hi>October</hi> 1688. The same per<g ref="char:EOLhyphen"/>son having <hi>another</hi> Fistula in the Leg, <hi>sealed</hi> a bone from the <hi>Ti<g ref="char:EOLhyphen"/>bia</hi> in the use of the <hi>Bath.</hi> This <hi>benefit</hi> he received at the <hi>Bath,</hi> since which time, he grew much worse, and is not yet <hi>cured.</hi>
+               </p>
+            </div>
+            <div n="77" type="observation">
+               <pb n="66" facs="tcp:94416:38"/>
+               <head>LXXVII.</head>
+               <p>
+                  <hi>Another</hi> Youth of <hi>London,</hi> nine <hi>years</hi> of age, having a <hi>Fistu<g ref="char:EOLhyphen"/>la</hi> in the <hi>outer</hi> side of the <hi>left</hi> Thigh, found <hi>great</hi> benefit by the <hi>Bath</hi> 2 <hi>October</hi> 1688.</p>
+            </div>
+            <div n="78" type="observation">
+               <head>LXXVIII.</head>
+               <p>A poor <hi>lame</hi> Man 1684, came to <hi>Bath</hi> as well as he could, and used the <hi>Kings, Queens</hi> and <hi>Le<g ref="char:EOLhyphen"/>pers</hi> Bath many weeks, went a<g ref="char:EOLhyphen"/>way <hi>without</hi> benefit, and the <hi>next</hi> Spring returned <hi>cured,</hi> with<g ref="char:EOLhyphen"/>out <hi>other</hi> help. He gave publick thanks for a <hi>perfect</hi> Recovery 12 <hi>October</hi> 1688, and Lodged at the House of <hi>Thomas Parker,</hi> Chair<g ref="char:EOLhyphen"/>man at <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="79" type="observation">
+               <pb n="67" facs="tcp:94416:38"/>
+               <head>LXXIX.</head>
+               <p>
+                  <hi>Edward Wyke</hi> Gentleman, of the Parish of St. <hi>Margarets West<g ref="char:EOLhyphen"/>minster,</hi> much troubled with the <hi>Spleen</hi> and <hi>Colic,</hi> came to <hi>Bath</hi> 23 of <hi>July</hi> 1688; so full of pain and very weak that he went crooked, <hi>scorched</hi> with a conti<g ref="char:EOLhyphen"/>nual <hi>Feaver</hi> and <hi>great</hi> Thirst; drank the <hi>waters</hi> from the <hi>Kings</hi> Bath, dry pump, as much as he could well bear for <hi>many</hi> days, after <hi>one</hi> month past he <hi>drank</hi> further on, and by long and <hi>con<g ref="char:EOLhyphen"/>stant</hi> drinking the waters without <hi>certain</hi> doses recovered <hi>perfectly</hi> on the place. For which so sur<g ref="char:EOLhyphen"/>prizing a <hi>benefit,</hi> the <hi>pious</hi> Man gave publick Thanks to <hi>GOD</hi> the great reliever in all diseases, and <hi>supreme</hi> Physician of Man<g ref="char:EOLhyphen"/>kind, in the Church of St <hi>Peter</hi>
+                  <pb n="68" facs="tcp:94416:39"/>and <hi>Paul</hi> in <hi>Bath,</hi> 22 <hi>September</hi> 1688, and gratefully desired this remembrance.</p>
+               <div type="note">
+                  <head>Note.</head>
+                  <p>In this <hi>Gentleman,</hi> 'tis very re<g ref="char:EOLhyphen"/>markable the <hi>Bath water</hi> did not pass the common way by <hi>Ʋrine</hi> or <hi>Stool,</hi> but chiefly by <hi>Sweat;</hi> and that he was never above <hi>once</hi> or <hi>twice</hi> in the <hi>Bath.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="80" type="observation">
+               <head>LXXX.</head>
+               <p>
+                  <hi>Thomas Boniface</hi> of <hi>London,</hi> about fifty <hi>years</hi> of age, in a <hi>Pal<g ref="char:EOLhyphen"/>sey,</hi> and weakness of the <hi>lower</hi> Limbs, in the month of <hi>June</hi> came to <hi>Bath</hi> with <hi>Crutches,</hi> and using the <hi>Kings</hi> and <hi>Queens</hi> Bath <hi>one</hi> month, laid aside his <hi>Crutches,</hi> which he hung up at his going away <hi>well,</hi> with great joy 1688.
+<pb n="69" facs="tcp:94416:39"/>In a <hi>short</hi> time after he began to use the <hi>Bath</hi> he could walk on foot to the <hi>Bath,</hi> and back again to his Lodging <hi>without</hi> help.</p>
+            </div>
+            <div n="81" type="observation">
+               <head>LXXXI.</head>
+               <p>
+                  <hi>Edward Huddle</hi> of <hi>Chesham</hi> in the County of <hi>Bucks,</hi> about the end of <hi>August,</hi> came to <hi>Bath</hi> with running <hi>Ʋlcers</hi> over all his body, after <hi>great</hi> Charges for cure, almost despairing of relief, came to these waters as the <hi>last</hi> help and hope of his health, and using the <hi>Kings</hi> and <hi>Queens</hi> Bath six weeks, and <hi>drinking</hi> sparing<g ref="char:EOLhyphen"/>ly of the water in the <hi>Bath,</hi> his Ulcers healed, and went away <hi>well</hi> in <hi>September</hi> 1688.</p>
+            </div>
+            <div n="82" type="observation">
+               <pb n="70" facs="tcp:94416:40"/>
+               <head>LXXXII.</head>
+               <p>
+                  <hi>Ann Walker</hi> of <hi>Herefordshire,</hi> came 1682 in a <hi>Waggon,</hi> having lost the use of <hi>all</hi> her Limbs, so that she could not stand, much less <hi>go,</hi> but was <hi>carried</hi> in arms like a Child, used the <hi>Kings</hi> Bath all the Summer <hi>without</hi> any benefit; the <hi>next</hi> Spring coming again, found <hi>good,</hi> and the <hi>Fall</hi> follow<g ref="char:EOLhyphen"/>ing using the <hi>same</hi> Bath again, <hi>perfectly</hi> recovered. From rela<g ref="char:EOLhyphen"/>tion 1688.</p>
+            </div>
+            <div n="83" type="observation">
+               <head>LXXXIII.</head>
+               <p>
+                  <hi>Henry Jones</hi> a <hi>Putchman,</hi> coming to <hi>Bath,</hi> with the loss of use of his <hi>right</hi> Arm and Hand, and using the <hi>King</hi> and <hi>Queens</hi> Bath fourteen <hi>days,</hi> re<g ref="char:EOLhyphen"/>ceived <hi>cure</hi> the <hi>same</hi> year.</p>
+            </div>
+            <div n="84" type="observation">
+               <pb n="71" facs="tcp:94416:40"/>
+               <head>LXXXIV.</head>
+               <p>A woman of <hi>Herefordshire,</hi> forty <hi>years</hi> of age, and three <hi>years</hi> so afflicted with a <hi>Rheuma<g ref="char:EOLhyphen"/>tism,</hi> that for all that time she could neither <hi>dress</hi> nor <hi>feed</hi> her self, with <hi>Hands</hi> and <hi>Feet</hi> much swollen, came to <hi>Bath</hi> 1683, used the <hi>King</hi> and <hi>Queens</hi> Bath three <hi>weeks,</hi> and recived <hi>cure.</hi> At the end of <hi>one</hi> week she could put on her Clothes, and <hi>help</hi> her self to meat.</p>
+            </div>
+            <div n="85" type="observation">
+               <head>LXXXV.</head>
+               <p>
+                  <hi>Henry Cutler</hi> of <hi>Lampert</hi> in the County of <hi>Somerset,</hi> Blacksmith, long troubled with a <hi>Palsey Ʋni<g ref="char:EOLhyphen"/>versal,</hi> and involuntary Trem<g ref="char:EOLhyphen"/>bling, especially of the <hi>Legs,</hi> used the <hi>Kings</hi> Bath <hi>three</hi> months, and
+<pb n="72" facs="tcp:94416:41"/>went away <hi>without</hi> benefit, but in eight <hi>weeks</hi> time after leaving the <hi>Bath,</hi> strength did return to the weak parts; and about <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> the year following he came to <hi>Bath</hi> on foot, and gave to the <hi>Guides</hi> and <hi>Chairmen</hi> each a pair of <hi>Tobacco-tongues,</hi> of his own work, which he brought with him, and were seen by me.</p>
+            </div>
+            <div n="86" type="observation">
+               <head>LXXXVI.</head>
+               <p>
+                  <hi>Tabitha Taylor,</hi> of the Hospital of St. <hi>Thomas</hi> within the Bur<g ref="char:EOLhyphen"/>rough of <hi>Southwark,</hi> came to <hi>Bath</hi> 1684, with Hams so <hi>con<g ref="char:EOLhyphen"/>tracted</hi> that she went upon her Knees, and promoted her moti<g ref="char:EOLhyphen"/>on with <hi>hand</hi> and <hi>foot,</hi> using the <hi>Kings</hi> and <hi>Queens</hi> Bath three <hi>months,</hi> was able to <hi>stand</hi> upright, and without <hi>Crutch</hi> or Staff, went away <hi>cured.</hi>
+               </p>
+            </div>
+            <div n="87" type="observation">
+               <pb n="73" facs="tcp:94416:41"/>
+               <head>LXXXVII.</head>
+               <p>A Young Man of <hi>Warwick-shire,</hi> troubled with pains <hi>univer<g ref="char:EOLhyphen"/>sal</hi> from a <hi>Rheumatism</hi> 1684, used the <hi>Kings</hi> and <hi>Queens</hi> Bath four <hi>months,</hi> went away with <hi>greater</hi> pains, about the Feast of <hi>All Saints,</hi> which so afflicted him as to deprive him of sleep and rest. He came to the <hi>Bath</hi> with <hi>Crutches,</hi> and going away by rea<g ref="char:EOLhyphen"/>son of <hi>great</hi> tenderness, could not use 'em, but about <hi>Lady-day</hi> next ensuing, came to <hi>Bath on foot</hi> in good health, and so <hi>con<g ref="char:EOLhyphen"/>tinues.</hi>
+               </p>
+               <div type="note">
+                  <head>Note.</head>
+                  <p>Hence it appears, the <hi>hotter</hi> Baths, in affections <hi>purely</hi> Rheu<g ref="char:EOLhyphen"/>matic, <hi>exasperate</hi> the Disease.</p>
+               </div>
+            </div>
+            <div n="88" type="observation">
+               <pb n="74" facs="tcp:94416:42"/>
+               <head>LXXXVIII.</head>
+               <p>A young woman named <hi>Doro<g ref="char:EOLhyphen"/>thy Rossington,</hi> near <hi>London,</hi> hav<g ref="char:EOLhyphen"/>ing scales falling from <hi>all</hi> her Body, especially in the <hi>morning</hi> in Bed, which usually attend the <hi>Leprosy</hi> called <hi>Elephantiasy,</hi> came to <hi>Bath</hi> in <hi>July</hi> 1688, and using the <hi>King</hi> and <hi>Queens</hi> Bath six <hi>months</hi> received cure, only some <hi>itching</hi> remained about the <hi>fin<g ref="char:EOLhyphen"/>gers,</hi> which had no relation to the <hi>former</hi> Distemper.</p>
+            </div>
+            <div n="89" type="observation">
+               <head>LXXXIX.</head>
+               <p>
+                  <hi>William King</hi> of <hi>Bromham</hi> in the County of <hi>Wilts,</hi> long trou<g ref="char:EOLhyphen"/>bled with a <hi>coldness</hi> of Body, and continual <hi>shaking</hi> not unlike those in an <hi>Ague,</hi> and in so <hi>great</hi> a degree of coldness and <hi>chill,</hi>
+                  <pb n="75" facs="tcp:94416:42"/>that when <hi>many</hi> Clothes were laid upon him he <hi>scarce</hi> felt any heat, and did use to sleep be<g ref="char:EOLhyphen"/>tween two <hi>beds;</hi> came to <hi>Bath</hi> 1688 the last day of <hi>August,</hi> and using the <hi>King</hi> and <hi>Queens</hi> Bath fourteen <hi>days</hi> received <hi>cure</hi> of the said coldness and <hi>tremblings.</hi> He went away 13 <hi>September</hi> 1688.</p>
+            </div>
+            <div n="90" type="observation">
+               <head>XC.</head>
+               <p>
+                  <hi>Thomas Smart,</hi> of the <hi>same</hi> County and Place, so torment<g ref="char:EOLhyphen"/>ed with <hi>gripings</hi> in the <hi>bowels</hi> that he could neither <hi>stand</hi> up<g ref="char:EOLhyphen"/>right nor <hi>sit,</hi> taking rest no <hi>other</hi> ways than by <hi>bowing</hi> his body, and leaning his <hi>head</hi> on a <hi>Joynt-stool</hi> in a forward po<g ref="char:EOLhyphen"/>sture, came to <hi>Bath</hi> the week be<g ref="char:EOLhyphen"/>fore <hi>Whitsontide</hi> 1688, <hi>drank the waters,</hi> and used the <hi>King</hi> and <hi>Queens</hi> Bath, and received <hi>cure.</hi>
+                  <pb n="76" facs="tcp:94416:43"/>Concerning <hi>this</hi> and the <hi>Ten</hi> im<g ref="char:EOLhyphen"/>mediately foregoing, <hi>Thomas Parker</hi> Chairman at <hi>Bath</hi> gave Testimony 13 <hi>October</hi> 1688.</p>
+            </div>
+            <div n="91" type="observation">
+               <head>XCI.</head>
+               <p>
+                  <hi>W. M. Esquire,</hi> in <hi>old aches</hi> re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> from the <hi>Long</hi> or <hi>Hot</hi> Bath, 20 <hi>August</hi> 1688.</p>
+            </div>
+            <div n="92" type="observation">
+               <head>XCII.</head>
+               <p>A <hi>Gentlewoman</hi> of <hi>London,</hi> troubled with <hi>Rheumatism</hi> and <hi>Scurvy,</hi> used the <hi>Cross</hi> Bath <hi>one</hi> month, and said she found <hi>bene<g ref="char:EOLhyphen"/>fit,</hi> 22 <hi>August</hi> 1688.</p>
+            </div>
+            <div n="93" type="observation">
+               <head>XCIII.</head>
+               <p>A <hi>Matron</hi> of <hi>Devonshire,</hi> in an <hi>inveterate Rheumatism,</hi> using the <hi>Cross</hi> Bath received <hi>benefit</hi> 30 <hi>Au<g ref="char:EOLhyphen"/>gust</hi> 1688.</p>
+            </div>
+            <div n="94" type="observation">
+               <pb n="77" facs="tcp:94416:43"/>
+               <head>XCIV.</head>
+               <p>Mr. <hi>Richard Young,</hi> Prebenda<g ref="char:EOLhyphen"/>ry of <hi>Windsor</hi> having a weakness in the <hi>Ancle,</hi> by the use of the <hi>Cross</hi> Bath and <hi>Pump</hi> in <hi>that</hi> Bath, received <hi>strength</hi> in <hi>August</hi> 1688.</p>
+            </div>
+            <div n="95" type="observation">
+               <head>XCV.</head>
+               <p>A Worthy <hi>Knight</hi> of <hi>Devon<g ref="char:EOLhyphen"/>shire,</hi> in obstructions of the <hi>Li<g ref="char:EOLhyphen"/>ver</hi> and <hi>Bladder</hi> of <hi>Gall,</hi> by <hi>drink<g ref="char:EOLhyphen"/>ing of the waters</hi> twenty one <hi>days</hi> from the Pump at the <hi>Kings</hi> Bath, received <hi>benefit</hi> 8 <hi>October</hi> 1688.</p>
+            </div>
+            <div n="96" type="observation">
+               <head>XCVI.</head>
+               <p>
+                  <hi>Joseph Plegdall</hi> Arch-Deacon of <hi>Chichester,</hi> in <hi>Rheumatic</hi> affections, and <hi>full habit</hi> of Body, by the
+<pb n="78" facs="tcp:94416:44"/>use of the <hi>Cross</hi> Bath received great <hi>benefit</hi> 4 <hi>October</hi> 1688. He <hi>drank</hi> the waters in the <hi>Morning</hi> and bathed at <hi>Night.</hi>
+               </p>
+            </div>
+            <div n="97" type="observation">
+               <head>XCVII.</head>
+               <p>A certain person <hi>unknown,</hi> for <hi>benefit</hi> received in Distempers re<g ref="char:EOLhyphen"/>lating to the passages of <hi>Ʋrine,</hi> gave publick Thanks in the Church of St. <hi>Peter and Paul</hi> in <hi>Bath,</hi> 14 <hi>October</hi> 1688.</p>
+            </div>
+            <div n="98" type="observation">
+               <head>XCVIII.</head>
+               <p>Returning from a long Journy I had then rode, and falling in<g ref="char:EOLhyphen"/>to a very painful <hi>Sciatica</hi> pre<g ref="char:EOLhyphen"/>sently after, by the use of the <hi>Kings</hi> Bath only three <hi>times,</hi> I received <hi>cure</hi> 18 <hi>September</hi> 1675.</p>
+            </div>
+            <div n="99" type="observation">
+               <pb n="79" facs="tcp:94416:44"/>
+               <head>XCIX.</head>
+               <p>Having also a <hi>weakness</hi> in the wrist of my <hi>right</hi> hand, using the <hi>same</hi> Baths, and taking five hundred pumps from the Pump in the <hi>Kings</hi> Bath, by the bles<g ref="char:EOLhyphen"/>sing of <hi>GOD</hi> I had <hi>present</hi> help and strength, 14 <hi>September</hi> the <hi>same</hi> year.</p>
+            </div>
+            <div n="100" type="observation">
+               <head>C.</head>
+               <p>In the year 16<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 1 of <hi>May,</hi> being at <hi>Rochester</hi> in <hi>Kent,</hi> and willing to see that <hi>ancient</hi> Ca<g ref="char:EOLhyphen"/>thedral there, and the <hi>Dock</hi> at <hi>Chatham,</hi> after kind entertain<g ref="char:EOLhyphen"/>ment on board some of his <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> Ships, too late at night I passed the water, and immediate<g ref="char:EOLhyphen"/>ly lost the use of my <hi>right</hi> hand and arm by a <hi>Rheumatism,</hi> which
+<pb n="80" facs="tcp:94416:45"/>by <hi>blood-letting,</hi> and some <hi>Topics,</hi> I afterwards recovered at <hi>London;</hi> but the weakness of the parts <hi>still</hi> continuing, I received strength in the same, by the use of the <hi>Cross, Queens,</hi> and <hi>Kings</hi> Bath at <hi>Bath,</hi> taking <hi>several</hi> pumps from the Pump in the <hi>Kings</hi> Bath, that hand with which, by the goodness of <hi>GOD,</hi> I <hi>now</hi> write, received <hi>perfect</hi> cure.</p>
+               <p>
+                  <hi>For which, and all other his greater Benefits, to the</hi> True <hi>God, chief of Physicians, and supreme Healer of the Sick, Weak, Lame, and otherways Diseased, and of all that with Faith and Confidence se<g ref="char:EOLhyphen"/>curely rest on him, Preserver and Avenger, be given all Glory, Ho<g ref="char:EOLhyphen"/>nour, Praise and Thanks, World without end.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="81" facs="tcp:94416:45"/>
+            <head>Observations <hi>communi<g ref="char:EOLhyphen"/>cated;</hi> some <hi>before</hi> my Time at the <hi>Bath, others since.</hi>
+            </head>
+            <div n="1" type="observation">
+               <head>I.</head>
+               <p>SIR <hi>Humphry Lloyd,</hi> or <hi>Lluyd,</hi> Knight, that Learned <hi>Cam<g ref="char:EOLhyphen"/>brobritan,</hi> by a fall from his Horse, at <hi>Milan</hi> in <hi>Italy;</hi> being troubled with a <hi>Sciatica</hi> for twelve <hi>months</hi> time, and getting no relief by the advice of <hi>many</hi> learned Physicians, in <hi>six</hi> days
+<pb n="82" facs="tcp:94416:46"/>using the <hi>Baths</hi> of <hi>Bath,</hi> perfect<g ref="char:EOLhyphen"/>ly recovered; from his own Testimony, in his <hi>Learned</hi> Frag<g ref="char:EOLhyphen"/>ment of the description of <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> p. 16. Time not mentioned.</p>
+            </div>
+            <div n="2" type="observation">
+               <head>II.</head>
+               <p>Mr. <hi>Richard Roe,</hi> Minister of <hi>GODS</hi> Word, and Preacher at <hi>Warwick,</hi> in the year 1629, trou<g ref="char:EOLhyphen"/>bled with a <hi>Palsey universal,</hi> and low habit of body, near as was judged by all that knew him, the <hi>end</hi> of his life, about fifty <hi>years</hi> of age, by the use of the <hi>Kings</hi> Both, received <hi>cure;</hi> from his <hi>own</hi> words in a Table in <hi>En<g ref="char:EOLhyphen"/>glish,</hi> formerly standing by the <hi>Kings</hi> Bath side, and translated by me into <hi>Latin</hi> in my <hi>Latin</hi> Tract <hi>De Thermis Britannicis,</hi> or the <hi>Bath</hi> if <hi>Bath,</hi> p. 301.</p>
+            </div>
+            <div n="3" type="observation">
+               <pb n="83" facs="tcp:94416:46"/>
+               <head>III.</head>
+               <p>A little before this time, Sir <hi>Francis Stonor</hi> of <hi>Stonor,</hi> in the County of <hi>Oxon,</hi> Knight, recei<g ref="char:EOLhyphen"/>ved <hi>benefit,</hi> in great weakness from the <hi>Gout,</hi> by the use of the <hi>Queens</hi> and <hi>Kings</hi> Baths; and gave a considerable <hi>Gift</hi> in mo<g ref="char:EOLhyphen"/>ny, by which the <hi>Stone Rails</hi> were built about the <hi>Kings,</hi> and many other things done for the Ornament of <hi>that</hi> Bath, menti<g ref="char:EOLhyphen"/>oned <hi>elsewhere,</hi> about the year 1625.</p>
+            </div>
+            <div n="4" type="observation">
+               <head>IV.</head>
+               <p>About the year 1640, a <hi>Welsh Gentleman,</hi> Operator, concern<g ref="char:EOLhyphen"/>ed in the <hi>silver</hi> Mines in <hi>Wales,</hi> was stricken with a poysonous steam, to the <hi>loss</hi> of use of all
+<pb n="84" facs="tcp:94416:47"/>his Limbs, in the place where they wrought; and presently coming in a <hi>Coach</hi> to <hi>Bath,</hi> was advised by Doctor <hi>Bave,</hi> an old Fminent Physician, <hi>then</hi> practi<g ref="char:EOLhyphen"/>sing on the place, to the use of the <hi>Kings</hi> Bath, where by the help of <hi>bathing,</hi> and the <hi>scum</hi> of the <hi>Bath</hi> applied to the parts affected, in the nature of a <hi>Pultice,</hi> in a <hi>months</hi> time he could <hi>stand</hi> and <hi>walk</hi> a little; and in three <hi>months</hi> time so well <hi>recover<g ref="char:EOLhyphen"/>ed,</hi> that he could go <hi>without</hi> the help of a <hi>Staff,</hi> and rid a <hi>mettle</hi> Horse home well▪ He was cured in <hi>one</hi> Season of <hi>bathing.</hi> This from <hi>William Purle<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t</hi> an Old Servant of the <hi>Doctors,</hi> now living, and <hi>Green-keeper</hi> at <hi>Bath,</hi> who attended the Patient.</p>
+            </div>
+            <div n="5" type="observation">
+               <pb n="85" facs="tcp:94416:47"/>
+               <head>V.</head>
+               <p>
+                  <hi>Madam Pine,</hi> near <hi>Barnstaple</hi> in the County of <hi>Devon,</hi> in a <hi>Palsey Ʋniversal,</hi> with sense re<g ref="char:EOLhyphen"/>maining, in the year 1658 came to <hi>Bath,</hi> and using the <hi>Kings</hi> and <hi>Queens</hi> Bath six <hi>weeks,</hi> so far <hi>re<g ref="char:EOLhyphen"/>covered</hi> as to feed her self, and spending the <hi>Winter</hi> in the Coun<g ref="char:EOLhyphen"/>try, where she sensibly <hi>recovered</hi> by degrees; the third of <hi>May</hi> following came to <hi>Bath</hi> in much <hi>better</hi> Condition, and <hi>some</hi> years after that, frequenting the <hi>Bath,</hi> received <hi>cure.</hi> This from an <hi>Eye-witness.</hi>
+               </p>
+            </div>
+            <div n="6" type="observation">
+               <head>VI.</head>
+               <p>The Honourable Lady <hi>Noel,</hi> lame, commended by Dr. <hi>Walter Needham,</hi> told me, that both
+<pb n="86" facs="tcp:94416:48"/>her self and <hi>Son,</hi> being formerly afflicted with <hi>convulsive</hi> motions, and weak in one Leg, taking the water of the <hi>Hot Bath</hi> by my advice, had a <hi>loose body,</hi> and two <hi>Stools</hi> every day, 6 <hi>August</hi> 1669. Dr. <hi>Maplet.</hi>
+               </p>
+            </div>
+            <div n="7" type="observation">
+               <head>VII.</head>
+               <p>The <hi>Aunt</hi> of the <hi>former</hi> Lady told me, that the <hi>first</hi> day she entred the <hi>Cross</hi> Bath, she found the <hi>Womb</hi> that had been fallen eighteen <hi>years,</hi> presently mend<g ref="char:EOLhyphen"/>ed, and <hi>return</hi> into its place, where it did <hi>afterwards</hi> continue, Dr. <hi>Maplet.</hi>
+               </p>
+            </div>
+            <div n="8" type="observation">
+               <head>VIII.</head>
+               <p>The Noble Dame <hi>Elizabeth Spencer,</hi> in the <hi>Gent,</hi> did affirm
+<pb n="87" facs="tcp:94416:48"/>the water from the <hi>Queens</hi> Bath Pump, taken <hi>twice</hi> a day, had a <hi>free</hi> passage by <hi>Ʋrine,</hi> 16 <hi>August</hi> 1669. Dr. <hi>Maplet</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="century">
+            <pb facs="tcp:94416:49"/>
+            <pb n="89" facs="tcp:94416:49"/>
+            <head>THE REGISTER OF BATH.</head>
+            <head type="sub">Second Century.</head>
+            <div n="1" type="observation">
+               <head>I.</head>
+               <p>SIR <hi>Richard Crump,</hi> Knight and <hi>Alderman</hi> of the City of <hi>Bristol,</hi> much grieved with <hi>Old Aches,</hi> occasioned by a
+<pb n="90" facs="tcp:94416:50"/>
+                  <hi>fall</hi> from his Horse, by which all the <hi>left</hi> side, especially the Head, Shoulder and Arm, became <hi>con<g ref="char:EOLhyphen"/>tused</hi> and <hi>sore</hi> bruised; after the use of <hi>many Remedies</hi> to no pur<g ref="char:EOLhyphen"/>pose, came to <hi>Bath</hi> 1676, where using the <hi>Kings</hi> and <hi>Queens</hi> Bath three <hi>weeks,</hi> and much <hi>pumping,</hi> he found <hi>little</hi> benefit on the place; but two <hi>days</hi> after his re<g ref="char:EOLhyphen"/>turn to <hi>Bristol,</hi> had the pains abated, which after three <hi>weeks</hi> there went all off, and never came again. He gave Testi<g ref="char:EOLhyphen"/>mony of <hi>perfect cure</hi> 2 <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1689 at <hi>Bath;</hi> and added,</p>
+               <closer>The Truth of this I aver,
+<signed>Richard Crumpe.</signed>
+               </closer>
+            </div>
+            <div n="2" type="observation">
+               <head>II.</head>
+               <p>
+                  <hi>Richard Vernon,</hi> Son of Mr. <hi>George Vernon,</hi> Rector of <hi>Bourton on the water,</hi> in the County of
+<pb n="91" facs="tcp:94416:50"/>
+                  <hi>Glocester,</hi> fourteen <hi>years</hi> of age, and ten <hi>years</hi> troubled with a milder sort of <hi>Leprosy,</hi> called an <hi>Elephantiasy,</hi> with tauny spots, and <hi>white</hi> seales infesting the skin, drank the water at the <hi>Kings</hi> Bath seven <hi>days,</hi> then using the <hi>Kings</hi> and <hi>Queens</hi> Bath three <hi>weeks</hi> seemed perfectly recovered. He also took the quantity of a <hi>large Nutmeg</hi> of an <hi>electuary,</hi> that cleanseth the blood <hi>first</hi> and <hi>last,</hi> and drank a little of the <hi>Bath<g ref="char:EOLhyphen"/>water,</hi> both in the <hi>Bath</hi> and Bed. Father and Son gave Testimony 6 <hi>June</hi> 1689. The <hi>Father</hi> said that about this time the <hi>Disease</hi> did usually break forth, and the <hi>Winter</hi> following I heard it did so, being so long put off by the use of the <hi>Bath,</hi> where a longer stay was requisite, and after eight <hi>weeks</hi> time at <hi>Bath,</hi> the year fol<g ref="char:EOLhyphen"/>lowing, he went away <hi>well,</hi> 19 <hi>June</hi> 1690.</p>
+            </div>
+            <div n="3" type="observation">
+               <pb n="92" facs="tcp:94416:51"/>
+               <head>III.</head>
+               <p>
+                  <hi>Henry Clempson,</hi> of <hi>Eversholt</hi> in the County of <hi>Bedford,</hi> Shoema<g ref="char:EOLhyphen"/>ker, came to <hi>Bath, Whit-Monday</hi> 1687; used the <hi>Hot Bath,</hi> and sometimes the <hi>Lepers,</hi> three <hi>months,</hi> and the year following the <hi>Hot Bath</hi> only the space of two <hi>months,</hi> and the third <hi>year</hi> 1689, 29 <hi>May,</hi> gave publick Thanks to Almighty <hi>GOD,</hi> who by the help of the <hi>Bath,</hi> had <hi>cured</hi> him of a <hi>white dry Leprosy,</hi> with ma<g ref="char:EOLhyphen"/>ny Scales, called <hi>Elephantiasy con<g ref="char:EOLhyphen"/>firmed,</hi> which had miserably af<g ref="char:EOLhyphen"/>flicted him for six <hi>years</hi> before. He gave Testimony 8 <hi>July</hi> 1689.</p>
+            </div>
+            <div n="4" type="observation">
+               <head>IV.</head>
+               <p>
+                  <hi>Francis Heckington,</hi> of <hi>North<g ref="char:EOLhyphen"/>allerton</hi> in the County of <hi>York,</hi>
+                  <pb n="93" facs="tcp:94416:51"/>thirty one <hi>years</hi> of Age, came to <hi>Bath</hi> 10 <hi>June</hi> 1689, with a great <hi>white swelling</hi> on his <hi>left</hi> Knee for six <hi>months</hi> before; used the <hi>Hot</hi> Bath, and <hi>Pump</hi> in the same, but five <hi>days</hi> and was <hi>cured.</hi> The tumour being <hi>diseus<g ref="char:EOLhyphen"/>sed,</hi> and weakness remaining, <hi>confirmation</hi> only was expected from the <hi>Bath.</hi> He gave Testi<g ref="char:EOLhyphen"/>mony 20 <hi>June</hi> 1689.</p>
+               <div type="note">
+                  <head>Note.</head>
+                  <p>This tumour was more <hi>Flatu<g ref="char:EOLhyphen"/>lent,</hi> than <hi>Pituitose,</hi> wind more <hi>easily</hi> yeilding to the <hi>Heat</hi> of the Waters, than <hi>Phlegm.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="observation">
+               <head>V.</head>
+               <p>The Right Reverend <hi>THO<g ref="char:EOLhyphen"/>MAS</hi> Lord <hi>Bishop</hi> of <hi>BATH</hi> and <hi>WELLS, drank</hi> the Wa<g ref="char:EOLhyphen"/>ters
+<pb n="94" facs="tcp:94416:52"/>at the <hi>Kings</hi> Bath, 1690, in the month of <hi>September,</hi> and re<g ref="char:EOLhyphen"/>ceived <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="6" type="observation">
+               <head>VI.</head>
+               <p>The Right Reverend <hi>GIL<g ref="char:EOLhyphen"/>BERT</hi> Lord <hi>Bishop</hi> of <hi>BRI<g ref="char:EOLhyphen"/>STOL</hi> then, now of <hi>HERE<g ref="char:EOLhyphen"/>FORD, drank</hi> the Waters at the <hi>same</hi> time in the <hi>Spleen,</hi> and found <hi>Advantage.</hi>
+               </p>
+            </div>
+            <div n="7" type="observation">
+               <head>VII.</head>
+               <p>
+                  <hi>John Mathew</hi> Esquire, having used the <hi>Kings</hi> and <hi>Queens</hi> Bath <hi>many</hi> years, and <hi>that</hi> year in particular, at the <hi>same</hi> Season, received <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="8" type="observation">
+               <pb n="95" facs="tcp:94416:52"/>
+               <head>VIII.</head>
+               <p>
+                  <hi>Orlando Pain,</hi> long troubled with a filthy <hi>Leprosy,</hi> sent to the <hi>Bath,</hi> and maintained there, by <hi>THOMAS</hi> Lord <hi>Bishop</hi> of <hi>Bath</hi> and <hi>Wells,</hi> all the <hi>Winter</hi> 1690, in fourteen <hi>weeks</hi> use of the <hi>Hot</hi> and <hi>Lepers</hi> Bath, received <hi>cure.</hi> The Reverend Mr. <hi>Clement,</hi> Rect<g ref="char:EOLhyphen"/>or of <hi>Bath,</hi> gave this account to me, then at <hi>London,</hi> by Letter, dated 18 <hi>February</hi> 1691.</p>
+            </div>
+            <div n="9" type="observation">
+               <head>IX.</head>
+               <p>Mr. <hi>James Ellesbie,</hi> the learn<g ref="char:EOLhyphen"/>ed and pious Vicar of <hi>Chiswick</hi> upon <hi>Thames,</hi> in the laxed tone of the <hi>Fibres</hi> of the Stomach and Guts, <hi>thin</hi> habit of Body, like <hi>consumptive,</hi> with a great <hi>languor</hi> and decay of strength,
+<pb n="96" facs="tcp:94416:53"/>
+                  <hi>drinking</hi> the <hi>Bath</hi> waters, recei<g ref="char:EOLhyphen"/>ved <hi>great benefit,</hi> and gave Pub<g ref="char:EOLhyphen"/>lick Thanks in the Church of St. <hi>Peter</hi> and <hi>Paul</hi> at <hi>Bath,</hi> in <hi>May</hi> 1690. He <hi>drank</hi> the waters again in the <hi>Fall</hi> the <hi>same</hi> year, and grew <hi>better</hi> upon it. I saw him <hi>very well</hi> in <hi>London</hi> 12 <hi>No<g ref="char:EOLhyphen"/>vember</hi> 1690.</p>
+            </div>
+            <div n="10" type="observation">
+               <head>X.</head>
+               <p>I <hi>James Hastings,</hi> of the <hi>Cathe<g ref="char:EOLhyphen"/>rine-wheel,</hi> in the City of <hi>Bath,</hi> in the County of <hi>Somerset,</hi> Gen<g ref="char:EOLhyphen"/>tleman, do testifie, that in the <hi>years</hi> 1688 and 89, being trou<g ref="char:EOLhyphen"/>bled with a <hi>Palsey Ʋniversal,</hi> and very <hi>great</hi> weakness, which for twenty five <hi>weeks</hi> confined me to my <hi>Bed;</hi> by the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath ma<g ref="char:EOLhyphen"/>ny months, received <hi>cure</hi> on the place. I also used the <hi>Bath</hi> at
+<pb n="97" facs="tcp:94416:53"/>fit times in the <hi>Winter</hi> Season. This I give under <hi>my</hi> Hand, 9 <hi>July</hi> 1690. <hi>James Hastings.</hi>
+               </p>
+            </div>
+            <div n="11" type="observation">
+               <head>XI.</head>
+               <p>Mr. <hi>Francis Molinenx,</hi> of <hi>Strat<g ref="char:EOLhyphen"/>ford</hi> upon <hi>Avon,</hi> in the County of <hi>Warwick,</hi> sixty five years of Age, came to <hi>Bath</hi> on <hi>Midsummer-day</hi> 1690, having lost the use of his <hi>right</hi> hand and arm <hi>half</hi> a year, using the <hi>Kings</hi> and <hi>Queens</hi> Bath only three <hi>weeks,</hi> perfectly <hi>reco<g ref="char:EOLhyphen"/>vered</hi> both sense and motion <hi>up<g ref="char:EOLhyphen"/>on the place.</hi> The <hi>nimble</hi> Jo<g ref="char:EOLhyphen"/>cund old <hi>Gentleman</hi> subscribed merrily 14 <hi>July</hi> 1690. <hi>F. M.</hi>
+               </p>
+            </div>
+            <div n="12" type="observation">
+               <head>XII.</head>
+               <p>I <hi>Robert Sheyler</hi> at the <hi>Turks Head</hi> Coffee-house in <hi>Bath,</hi> do testify, that I was <hi>perfectly</hi> cured
+<pb n="98" facs="tcp:94416:54"/>of a <hi>Seratica</hi> by three <hi>times</hi> bath<g ref="char:EOLhyphen"/>ing in the <hi>Kings</hi> Bath. In witness whereof I have <hi>subscribed</hi> my Name 6 <hi>August</hi> 1690. <hi>Robert Sheyler.</hi>
+               </p>
+            </div>
+            <div n="13" type="observation">
+               <head>XIII.</head>
+               <p>A Gentlewoman for <hi>benefit</hi> re<g ref="char:EOLhyphen"/>ceived by the <hi>Bath,</hi> returned Thanks to Almighty <hi>GOD,</hi> the Fountain of <hi>Healing,</hi> in the Church of St. <hi>Peter</hi> and <hi>Paul</hi> at <hi>Bath</hi> 6 <hi>August</hi> 1690.</p>
+            </div>
+            <div n="14" type="observation">
+               <head>XIV.</head>
+               <p>
+                  <hi>Madam Wogan</hi> of <hi>London,</hi> be<g ref="char:EOLhyphen"/>ing lame, and using the <hi>Kings</hi> and <hi>Queens</hi> Bath a considerable time, received <hi>no</hi> benefit on the place, but recovered at <hi>home</hi> 1689. She gave Testimony of <hi>cure</hi> 4 <hi>November</hi> 1690.</p>
+            </div>
+            <div n="15" type="observation">
+               <pb n="99" facs="tcp:94416:54"/>
+               <head>XV.</head>
+               <p>Mr. <hi>William Dexie,</hi> Son to Sir <hi>Beaumont Dixie,</hi> of <hi>Market-Bos<g ref="char:EOLhyphen"/>worth,</hi> in the County <hi>Leicester</hi> Baronet, sadly afflicted with a <hi>Rheumatism</hi> five months, which had reduced him to that de<g ref="char:EOLhyphen"/>gree of weakness, that at twenty two <hi>years</hi> of age, he seemed an <hi>old decrepid Man</hi> up<g ref="char:EOLhyphen"/>on <hi>Crutches,</hi> after all advice pos<g ref="char:EOLhyphen"/>sible in <hi>London,</hi> came very pen<g ref="char:EOLhyphen"/>sive to the <hi>Bath</hi> 23 <hi>August</hi> 1690, where using the <hi>Cross</hi> Bath two months, and the <hi>Pump</hi> twenty four <hi>days,</hi> number of <hi>Pumps</hi> un<g ref="char:EOLhyphen"/>certain, could walk <hi>without</hi> help on the <hi>place</hi> first, and <hi>there</hi> per<g ref="char:EOLhyphen"/>fectly recovered; for which great mercy, and unexpected re<g ref="char:EOLhyphen"/>covery, he gave publick Thanks to <hi>GOD</hi> in the <hi>greatest</hi> Church
+<pb n="100" facs="tcp:94416:55"/>in <hi>Bath,</hi> 1 <hi>October</hi> 1690, then appointed for a general <hi>Thanks<g ref="char:EOLhyphen"/>giving</hi> day, through the King<g ref="char:EOLhyphen"/>dom of <hi>England.</hi> This I had from his <hi>own</hi> mouth 21 <hi>October</hi> following, as I came up with him to the August <hi>Metropolis</hi> of the <hi>English</hi> Nation, in the same Coach.</p>
+            </div>
+            <div n="16" type="observation">
+               <head>XVI.</head>
+               <p>Mrs. <hi>Elizabeth Crapon,</hi> of <hi>Marle<g ref="char:EOLhyphen"/>borough</hi> in the County of <hi>Wilts,</hi> came to <hi>Bath</hi> 1 of <hi>May</hi> 1690, troubled besides <hi>Hysterical</hi> fits, with a <hi>contracted</hi> Cold, <hi>withered</hi> Hand and Arm, lame on all the <hi>left</hi> side, without appetite, and reduced to a <hi>very</hi> low conditi<g ref="char:EOLhyphen"/>on of body; used the <hi>Cross</hi> Bath three <hi>times,</hi> and afterwards the <hi>Kings</hi> and <hi>Queens</hi> ten weeks, went away rather <hi>worse</hi> than
+<pb n="101" facs="tcp:94416:55"/>better; came <hi>again</hi> the next year the beginning of <hi>June,</hi> continu<g ref="char:EOLhyphen"/>ed a months time the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath, went away much <hi>weaker</hi> than she came, but in a <hi>weeks</hi> time mended, and by degrees recovered the use of <hi>all</hi> the parts, formerly ill affect<g ref="char:EOLhyphen"/>ed, and is now <hi>well.</hi> She found the <hi>Hysterical fits</hi> provoked by the <hi>Bath,</hi> and drinking the wa<g ref="char:EOLhyphen"/>ters <hi>in</hi> and <hi>out</hi> of the <hi>Bath,</hi> got such a <hi>stomach,</hi> that she grew of good <hi>habit</hi> of body in a <hi>little</hi> time after, and so <hi>continues,</hi> hav<g ref="char:EOLhyphen"/>ing this year used the <hi>Bath</hi> for <hi>confirmation.</hi> She gave Testimo<g ref="char:EOLhyphen"/>ny of a <hi>general cure,</hi> 10 of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1692, in the presence of Mr. <hi>Thomas Gibbs</hi> Apothecary in <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="17" type="observation">
+               <pb n="102" facs="tcp:94416:56"/>
+               <head>XVII.</head>
+               <p>
+                  <hi>Charles Denham</hi> of <hi>Bishopsgate<g ref="char:EOLhyphen"/>street,</hi> now Porter at the <hi>Blossoms</hi> Inn in St. <hi>Laurence-lane, London,</hi> about thirty <hi>years</hi> of Age, came to <hi>Bath</hi> in <hi>July</hi> 1689, troubled with <hi>great weakness,</hi> and want of <hi>motion</hi> of <hi>both</hi> his Legs for the space of two <hi>years;</hi> used the <hi>Kings</hi> Bath three <hi>weeks,</hi> and found <hi>benefit</hi> after his return; came to <hi>Bath again</hi> for two <hi>years</hi> following, and the third <hi>time</hi> was able to go without his <hi>Crutches,</hi> which he had used for the space of five <hi>years</hi> before, and hung 'em up at the <hi>Kings</hi> Bath, in acknowledgment of his <hi>recovery.</hi> He <hi>subscribed</hi> this testi<g ref="char:EOLhyphen"/>mony 2d day of <hi>July</hi> 1691. <hi>Charles Denham.</hi>
+               </p>
+            </div>
+            <div n="18" type="observation">
+               <pb n="103" facs="tcp:94416:56"/>
+               <head>XVIII.</head>
+               <p>
+                  <hi>George Long.</hi> of <hi>Downchead</hi> in the County of <hi>Somerset</hi> Esquire, received <hi>great benefit</hi> in the year 1692, by bathing in the <hi>Cross</hi> Bath, and <hi>drinking</hi> the waters at the <hi>Kings,</hi> in <hi>Arthritic</hi> Di<g ref="char:EOLhyphen"/>stempers. He lost his <hi>gray</hi> hairs, and had <hi>new</hi> hair and <hi>nails,</hi> which is attributed to the <hi>Bath,</hi> and is a <hi>singular</hi> Instance.</p>
+            </div>
+            <div n="19" type="observation">
+               <head>XIX.</head>
+               <p>Mr. <hi>John Burrough</hi> of <hi>Bednal Green</hi> in the County of <hi>Middle<g ref="char:EOLhyphen"/>sex,</hi> came to <hi>Bath</hi> 3 of <hi>Au<g ref="char:EOLhyphen"/>gust</hi> 1692, with a <hi>Sciatica</hi> on the <hi>left</hi> side; used the <hi>Kings</hi> and <hi>Queens</hi> Bath five <hi>weeks,</hi> pumped <hi>several</hi> times on the part affected to the number of 2000 and up<g ref="char:EOLhyphen"/>wards
+<pb n="104" facs="tcp:94416:57"/>at <hi>one</hi> time. The pains removed after four <hi>pumpings,</hi> then continuing 1000 <hi>Pumps,</hi> after ten <hi>times</hi> pumping 1000, received a <hi>perfect</hi> cure. By me <hi>John Burrough.</hi>
+               </p>
+            </div>
+            <div n="20" type="observation">
+               <head>XX.</head>
+               <p>Mr. <hi>Hugh Hall,</hi> of <hi>Nantwich</hi> in the County of <hi>Chester,</hi> in an in<g ref="char:EOLhyphen"/>veterate <hi>spleen,</hi> much afflicting both the <hi>stomach</hi> and <hi>head,</hi> by the use of an <hi>Antisplenetic</hi> Electu<g ref="char:EOLhyphen"/>ary and <hi>Drink</hi> over-night, and <hi>drinking</hi> the waters from the <hi>Kings</hi> Bath Dry-Pump in the <hi>morning,</hi> received <hi>great benefit</hi> 1692. He afterwards <hi>writ</hi> he was in great hopes of <hi>perfect</hi> cure.</p>
+            </div>
+            <div n="21" type="observation">
+               <pb n="105" facs="tcp:94416:57"/>
+               <head>XXI.</head>
+               <p>The <hi>Learned</hi> and pious Mr. <hi>Thomas Wilkins,</hi> Prebendary of <hi>Landaffe,</hi> well skilled in the <hi>Bri<g ref="char:EOLhyphen"/>tish</hi> Antiquities, in a <hi>Sciatica</hi> using the <hi>Kings</hi> Bath four times, and the Pump only 200 twice, re<g ref="char:EOLhyphen"/>ceived <hi>perfect</hi> cure, in the month of <hi>June</hi> 1683. He <hi>writ</hi> that from <hi>that</hi> time by the blessing of <hi>GOD</hi> he continued <hi>well,</hi> in a <hi>Letter</hi> dated <hi>Michaelmas-day</hi> 1692.</p>
+            </div>
+            <div n="22" type="observation">
+               <head>XXII.</head>
+               <p>I <hi>Richard Robinson,</hi> of <hi>West-Chester,</hi> sometime <hi>Serjeant</hi> in the Company of Captain <hi>Donalson,</hi> having received <hi>several</hi> wounds in my <hi>Head,</hi> and right Arm, to the <hi>loss</hi> of motion in <hi>that</hi> arm,
+<pb n="106" facs="tcp:94416:58"/>which had continued from the 27 of <hi>July</hi> 1689, came to <hi>Bath</hi> 4 of <hi>June</hi> 1692, continued there three <hi>weeks,</hi> used the <hi>Kings</hi> and <hi>Queens</hi> Bath, and pumped on the part, and by the use of these means, and <hi>GODS blessing</hi> on the same, recovered the <hi>perfect</hi> use of my arm, as <hi>before</hi> my wounds, which were received in <hi>battle</hi> against the late <hi>Viscount</hi> of <hi>Dundee,</hi> in the <hi>Highlands</hi> of <hi>Scotland.</hi> Witness my <hi>Hand</hi> this 28 day of <hi>June</hi> 1692. <hi>Richard Robinson;</hi> and added, <hi>Subscribed with the Hand of</hi> that <hi>Arm that had been so long lame.</hi>
+               </p>
+            </div>
+            <div n="23" type="observation">
+               <head>XXIII.</head>
+               <p>I <hi>John Burch</hi> of <hi>Goadhurst</hi> in the County of <hi>Kent,</hi> Yeoman, came to <hi>Bath</hi> 30 of <hi>April</hi> 1691, troubled three <hi>years</hi> before with
+<pb n="107" facs="tcp:94416:58"/>a <hi>white scurfy skin</hi> and <hi>head,</hi> un<g ref="char:EOLhyphen"/>der the seales were <hi>reddish</hi> spots, most commonly <hi>round:</hi> I used the <hi>Kings</hi> and <hi>Queens</hi> Bath nine <hi>weeks,</hi> found <hi>benefit,</hi> and acknow<g ref="char:EOLhyphen"/>ledged my <hi>cure</hi> 22 day of <hi>Au<g ref="char:EOLhyphen"/>gust</hi> 1692. Witness my Hand, <hi>John Burch.</hi>
+               </p>
+            </div>
+            <div n="24" type="observation">
+               <head>XXIV.</head>
+               <p>
+                  <hi>Jacob Clark</hi> of <hi>Palten</hi> in the County of <hi>Somerset,</hi> Cordwainer, came to <hi>Bath</hi> 26 <hi>September</hi> 1692, troubled with a <hi>Sciatica</hi> in the <hi>left</hi> side, near twelve <hi>months</hi> time, that he could not <hi>stand</hi> a<g ref="char:EOLhyphen"/>lone all the winter, with some pains in <hi>knee</hi> and <hi>ankle</hi> of the same side; used the <hi>Kings</hi> and <hi>Queens</hi> Bath fourteen days, and <hi>pumped</hi> to the number of 1200 at <hi>some times,</hi> went away 8 <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> and came again a <hi>fortnight</hi>
+                  <pb n="108" facs="tcp:94416:59"/>after, and acknowledged the <hi>be<g ref="char:EOLhyphen"/>nefit,</hi> being able to go <hi>well</hi> alone, and <hi>without</hi> a staff. He gave Testimony 22 of <hi>October</hi> 1692, and subscribed <hi>Jacob Clark.</hi>
+               </p>
+            </div>
+            <div n="25" type="observation">
+               <head>XXV.</head>
+               <p>
+                  <hi>Mary Yates,</hi> Servant to the worthy, my <hi>honoured</hi> good Friend <hi>John Kyrse,</hi> of <hi>Ross</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hereford,</hi> Esquire, received <hi>cure</hi> of a great <hi>weakness</hi> in all her <hi>Limbs,</hi> by <hi>GODS</hi> blessing on the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath, and <hi>pumping</hi> there 17 <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1692. She came again for pains in her <hi>Head</hi> 7 <hi>November</hi> following, and received <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="26" type="observation">
+               <pb n="109" facs="tcp:94416:59"/>
+               <head>XXVI.</head>
+               <p>The Honourable Lord <hi>JOHN MORDANT</hi> eldest Son to the Right Honourable <hi>CHARLES</hi> Earl of <hi>Monmouth,</hi> came to <hi>Bath</hi> 9 of <hi>September</hi> 1692, with a great contraction of the <hi>right</hi> Ham, which hindered both use and motion of <hi>that</hi> Leg: after many things preparatory by the skill of an <hi>Artist,</hi> eminent in <hi>London,</hi> he used the <hi>Cross</hi> Bath seven weeks, found <hi>benefit</hi> on the place, and in three <hi>weeks</hi> time after his return, <hi>perfectly</hi> recovered. He gave <hi>Testimony</hi> of cure, 20 <hi>September</hi> 1693 at <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="27" type="observation">
+               <pb n="110" facs="tcp:94416:60"/>
+               <head>XXVII.</head>
+               <p>A Child of Mr. <hi>Richard Ford</hi> Apothecary in <hi>Bath,</hi> sixteen weeks old, and from the time of his <hi>birth,</hi> troubled with much <hi>phlegm</hi> in the Chest, which caused an <hi>Asthma</hi> with very troublesom <hi>Sweats,</hi> sucking the Mother, who <hi>drank</hi> the <hi>Bath</hi> waters, received <hi>cure,</hi> and made the same <hi>effects</hi> as if the Child had <hi>drunk</hi> the waters <hi>himself.</hi> The <hi>Father</hi> gave Testimony 26 <hi>March</hi> 1693.</p>
+            </div>
+            <div n="28" type="observation">
+               <head>XXVIII.</head>
+               <p>
+                  <hi>John Comer,</hi> of <hi>Bratton Flem<g ref="char:EOLhyphen"/>ming</hi> near <hi>Barnestaple,</hi> in the County of <hi>Devon,</hi> Husbandman, came to <hi>Bath, May-day</hi> 1692, troubled with a <hi>Sciatica</hi> above twelve <hi>months,</hi> used the <hi>Kings</hi>
+                  <pb n="111" facs="tcp:94416:60"/>and <hi>Queens</hi> Bath, and <hi>Pump</hi> three weeks, went away not <hi>much</hi> better, but six <hi>weeks</hi> after <hi>recovered</hi> at home, and came <hi>well</hi> to <hi>Bath</hi> 13 <hi>May</hi> 1693, having then a small hard <hi>Tumour</hi> on his <hi>right</hi> hand, in which by the use of <hi>bathing</hi> and <hi>pumping</hi> in the <hi>same</hi> Bath, he received <hi>benefit,</hi> and went away 29 <hi>May</hi> 1693. He acknowledged his <hi>cure</hi> of a <hi>Sciatica,</hi> 27 <hi>May</hi> 1693, and sub<g ref="char:EOLhyphen"/>scribed <hi>John Comer.</hi>
+               </p>
+            </div>
+            <div n="29" type="observation">
+               <head>XXIX.</head>
+               <p>Mrs. <hi>Margaret Hall,</hi> Daughter of Mr. <hi>John Hall,</hi> Chirurgeon, in <hi>Ross</hi> in the County of <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> received <hi>cure</hi> of <hi>Cachexie,</hi> and great <hi>obstructions,</hi> by bathing and <hi>drinking</hi> at convenient times for a <hi>month,</hi> went away 6 <hi>June</hi> 1693, and subscribed <hi>Margaret Hall.</hi>
+               </p>
+            </div>
+            <div n="30" type="observation">
+               <pb n="112" facs="tcp:94416:61"/>
+               <head>XXX.</head>
+               <p>
+                  <hi>Daniel Weare,</hi> of <hi>Brockenborough</hi> near <hi>Malmsbury,</hi> came to <hi>Bath lame</hi> in his own Cart, 4. <hi>July</hi> 1692, used the <hi>Kings</hi> and <hi>Queens</hi> Bath and <hi>Pump,</hi> returned in Cart with <hi>little</hi> amendment the second of <hi>August</hi> following, but recovered in the <hi>Country.</hi> He came to <hi>Bath on foot</hi> 2 <hi>January</hi> 1693, acknowledged <hi>cure,</hi> 2 <hi>June</hi> 1693, and subscribed, <hi>Daniel Weare.</hi>
+               </p>
+            </div>
+            <div n="31" type="observation">
+               <head>XXXI.</head>
+               <p>
+                  <hi>Joseph Peake,</hi> of <hi>North-Gorely</hi> near <hi>Fordingbridge</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Southampton,</hi> Husbandman, came to <hi>Bath</hi> 24 <hi>May</hi> 1692, troubled with a <hi>lame arm,</hi> and <hi>contracted</hi> fingers, to the loss of
+<pb n="113" facs="tcp:94416:61"/>use of <hi>that</hi> Arm and Hand, con<g ref="char:EOLhyphen"/>tinued <hi>bathing</hi> and <hi>pumping</hi> in the <hi>Hot</hi> Bath fourteen <hi>days,</hi> went away with <hi>much</hi> benefit 7 <hi>June</hi> 1693. <hi>Joseph Peake.</hi>
+               </p>
+            </div>
+            <div n="32" type="observation">
+               <head>XXXII.</head>
+               <p>
+                  <hi>Herthy Harper,</hi> a <hi>Leper,</hi> recei<g ref="char:EOLhyphen"/>ved <hi>great</hi> benefit by the <hi>Lepers</hi> Bath 1693.</p>
+            </div>
+            <div n="33" type="observation">
+               <head>XXXIII.</head>
+               <p>
+                  <hi>Elizabeth Smith,</hi> a <hi>Leper,</hi> with skin <hi>covered</hi> over with scales, re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> by the <hi>same</hi> Bath, and went away with a <hi>clean</hi> skin, 1693.</p>
+            </div>
+            <div n="34" type="observation">
+               <head>XXXIV.</head>
+               <p>
+                  <hi>Avery Cook,</hi> having lost the use of <hi>both</hi> hands by <hi>numness,</hi>
+                  <pb n="114" facs="tcp:94416:62"/>recovered by the use of the <hi>same Bath</hi> 1693.</p>
+            </div>
+            <div n="35" type="observation">
+               <head>XXXV.</head>
+               <p>
+                  <hi>Henry Johnson,</hi> a <hi>Dane,</hi> with <hi>old</hi> sores, and <hi>running</hi> Ulcers in the <hi>Legs, Hands</hi> and <hi>Face,</hi> recei<g ref="char:EOLhyphen"/>ved <hi>cure</hi> by the <hi>same</hi> Bath, at two <hi>Seasons,</hi> the last 1693.</p>
+            </div>
+            <div n="36" type="observation">
+               <head>XXXVI.</head>
+               <p>
+                  <hi>Edward Baxter,</hi> lame, came to <hi>Bath</hi> with <hi>Crutches,</hi> and went away <hi>so</hi> well as not to <hi>need</hi> 'em, but left 'em at the <hi>Bath</hi> 1693. He used the <hi>Lepers</hi> Bath.</p>
+            </div>
+            <div n="37" type="observation">
+               <head>XXXVII.</head>
+               <p>
+                  <hi>Robert Bret,</hi> of <hi>Cordenham</hi> in the County of <hi>Cornwall,</hi> came to <hi>Bath</hi> a <hi>Cripple,</hi> the use of <hi>all</hi> his
+<pb n="115" facs="tcp:94416:62"/>Limbs being taken away with <hi>Wrestling;</hi> came with <hi>Crutches,</hi> and received so much <hi>benefit</hi> as to go away with a <hi>Staff,</hi> and is now so <hi>recovered</hi> as to need <hi>no<g ref="char:EOLhyphen"/>thing,</hi> but continues a stout man. He used the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="38" type="observation">
+               <head>XXXVIII.</head>
+               <p>
+                  <hi>Samuel Bret,</hi> Brother of the said <hi>Robert,</hi> came to <hi>Bath</hi> with a <hi>foul skin,</hi> used the <hi>Kings</hi> and <hi>Queens</hi> Bath fourteen <hi>days,</hi> and received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="39" type="observation">
+               <head>XXXIX.</head>
+               <p>
+                  <hi>Sarah Meredith,</hi> of <hi>Car<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een,</hi> re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> in an <hi>Elephantiasy</hi> by the <hi>Hot</hi> Bath 1693.</p>
+            </div>
+            <div n="40" type="observation">
+               <pb n="116" facs="tcp:94416:63"/>
+               <head>XL.</head>
+               <p>
+                  <hi>Howel Morgan</hi> Esquire, of the County of <hi>Merioneth</hi> in <hi>Wales,</hi> received <hi>great</hi> benefit in a <hi>foul</hi> skin, with <hi>white</hi> scales resembling an <hi>Elephantiasy,</hi> by <hi>drinking</hi> and <hi>bathing</hi> in the <hi>Kings</hi> Bath 1692, and further advanced to a <hi>cure</hi> by the <hi>same</hi> Bath 1693.</p>
+            </div>
+            <div n="41" type="observation">
+               <head>XLI.</head>
+               <p>Mr. <hi>Thomas Ebarnden,</hi> near <hi>Maidstone</hi> in <hi>Kent,</hi> received <hi>be<g ref="char:EOLhyphen"/>nefit</hi> by bathing in the <hi>Kings</hi> Bath, in great <hi>weakness</hi> in his lower Limbs, and a <hi>Tumour</hi> in his Knee 1693.</p>
+            </div>
+            <div n="42" type="observation">
+               <pb n="117" facs="tcp:94416:63"/>
+               <head>XLII.</head>
+               <p>Mr. <hi>Thomas Quelsh,</hi> of <hi>New-Mills</hi> near <hi>Twiford,</hi> received <hi>be<g ref="char:EOLhyphen"/>nefit</hi> in a <hi>Tumour</hi> on one of his knees, by <hi>bathing</hi> and <hi>pumping</hi> in the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="43" type="observation">
+               <head>XLIII.</head>
+               <p>
+                  <hi>John Marlow,</hi> of St. <hi>Catherines</hi> near the <hi>Tower</hi> of <hi>London,</hi> recei<g ref="char:EOLhyphen"/>ved <hi>great</hi> benefit in weakness, and want of motion of <hi>one</hi> Arm, by <hi>bathing</hi> and <hi>pumping</hi> in the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="44" type="observation">
+               <head>XLIV.</head>
+               <p>
+                  <hi>Ann Marlow</hi> living with the said <hi>John,</hi> in the <hi>Head-ach,</hi> by <hi>drinking</hi> the waters and <hi>pumping</hi> at the <hi>Kings</hi> Bath received <hi>cure,</hi> 1693.</p>
+            </div>
+            <div n="45" type="observation">
+               <pb n="118" facs="tcp:94416:64"/>
+               <head>XLV.</head>
+               <p>Mrs. <hi>Finch</hi> of <hi>Reading</hi> in the County of <hi>Berks,</hi> received <hi>great</hi> benefit in <hi>obstructions,</hi> and <hi>uterine</hi> Distempers by <hi>drinking</hi> the waters, and <hi>bathing</hi> in the <hi>same</hi> Bath 1693.</p>
+            </div>
+            <div n="46" type="observation">
+               <head>XLVI.</head>
+               <p>Captain <hi>Robert Millington,</hi> Captain of a Troop in the <hi>Horse-Guards</hi> belonging to the <hi>Right</hi> Honourable the Earl of <hi>OX<g ref="char:EOLhyphen"/>FORD,</hi> received <hi>great</hi> benefit by <hi>bathing, drinking</hi> and <hi>pumping</hi> in the <hi>Kings</hi> Bath, in <hi>contracti<g ref="char:EOLhyphen"/>on</hi> of the Ham, and <hi>swelling</hi> on the Knee 1693. The contraction was <hi>cured.</hi>
+               </p>
+            </div>
+            <div n="47" type="observation">
+               <pb n="119" facs="tcp:94416:64"/>
+               <head>XLVII.</head>
+               <p>Mr. <hi>Hall</hi> of <hi>King-street, Blooms<g ref="char:EOLhyphen"/>bury,</hi> received <hi>benefit</hi> in a great <hi>swelling,</hi> and want of motion of <hi>one</hi> arm, by <hi>bathing</hi> and <hi>drinking</hi> the waters at the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="48" type="observation">
+               <head>XLVIII.</head>
+               <p>Sir <hi>David Thoers,</hi> Knight and Advocate in <hi>Edenburgh,</hi> in the ancient <hi>Kingdom</hi> of <hi>Scotland,</hi> re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> in weakness in the <hi>Instep</hi> and want of motion of <hi>one</hi> Leg. He used the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="49" type="observation">
+               <head>XLIX.</head>
+               <p>Sir <hi>David Kenloc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of the <hi>same</hi> Kingdom, Knight, received <hi>be<g ref="char:EOLhyphen"/>nefit</hi>
+                  <pb n="120" facs="tcp:94416:65"/>by <hi>drinking</hi> the waters, and <hi>bathing</hi> in the <hi>Kings</hi> and <hi>Queens</hi> Bath 1693.</p>
+            </div>
+            <div n="50" type="observation">
+               <head>L.</head>
+               <p>The Reverend Mr. <hi>Pead,</hi> Re<g ref="char:EOLhyphen"/>ctor of <hi>Clerkenwell, London,</hi> in the want of motion of <hi>one</hi> Arm, received <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="51" type="observation">
+               <head>LI.</head>
+               <p>Madam <hi>Parnel Wry,</hi> near <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> by the use of the <hi>Cross</hi> Bath, and <hi>mud</hi> of the <hi>Kings,</hi> in a <hi>swelling</hi> on the Knee, received <hi>great benefit</hi> 1693.</p>
+            </div>
+            <div n="52" type="observation">
+               <head>LII.</head>
+               <p>Mr. <hi>Thompson,</hi> in the <hi>Pall-Mall London,</hi> in <hi>Cephalic</hi> Distempers, by <hi>bathing, drinking</hi> and <hi>pumping</hi>
+                  <pb n="121" facs="tcp:94416:65"/>at the <hi>Kings</hi> Bath received <hi>bene<g ref="char:EOLhyphen"/>fit</hi> 1693. Bleeding <hi>freely</hi> after<g ref="char:EOLhyphen"/>wards at <hi>London</hi> from the Arm, he mended <hi>more</hi> at home.</p>
+            </div>
+            <div n="53" type="observation">
+               <head>LIII.</head>
+               <p>Mr. <hi>Harman,</hi> near <hi>Norwich,</hi> received <hi>great</hi> benefit, by <hi>drink<g ref="char:EOLhyphen"/>ing</hi> the waters, and <hi>bathing</hi> in a high <hi>scorbutic</hi> Distemper, and <hi>redness</hi> of face. He used the <hi>Kings</hi> and <hi>Queens</hi> Bath 1693.</p>
+            </div>
+            <div n="54" type="observation">
+               <head>LIV.</head>
+               <p>
+                  <hi>William York,</hi> of <hi>Basset-down</hi> near <hi>Swindon,</hi> in the County of <hi>Wilts</hi> Esquire, received <hi>benefit</hi> by drinking the <hi>waters,</hi> and bathing in the <hi>Kings</hi> Bath, in distempers of the <hi>Stomach</hi> and <hi>Head</hi> 1693.</p>
+            </div>
+            <div n="55" type="observation">
+               <pb n="122" facs="tcp:94416:66"/>
+               <head>LV.</head>
+               <p>Mr. <hi>Richard Yorath,</hi> Chaplain to <hi>Thomas Morgan</hi> of <hi>Trede<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar</hi> in the County of <hi>Monmouth</hi> Esquire, received <hi>great</hi> benefit in a <hi>con<g ref="char:EOLhyphen"/>sumptive</hi> extenuated <hi>condition,</hi> and <hi>Scorbutic Atrophy,</hi> by drink<g ref="char:EOLhyphen"/>ing the waters at the <hi>Kings</hi> Bath 1693. He bathed <hi>sometimes,</hi> but not often.</p>
+            </div>
+            <div n="56" type="observation">
+               <head>LVI.</head>
+               <p>Mr. <hi>Edward Peirce,</hi> an <hi>Irish</hi> Gentleman, received great <hi>bene<g ref="char:EOLhyphen"/>fit</hi> by <hi>drinking</hi> the waters, and bathing in the <hi>Queens</hi> and <hi>Kings</hi> Bath, in <hi>Rheumatic</hi> pains over all his body, which at last al<g ref="char:EOLhyphen"/>most deprived him of the use of his <hi>right</hi> arm. Also benefit was received in distempers of the
+<pb n="123" facs="tcp:94416:66"/>
+                  <hi>Blood</hi> and <hi>nervous</hi> parts and <hi>others,</hi> proceeding from <hi>hard</hi> lying in the late <hi>Troubles</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> 1693.</p>
+            </div>
+            <div n="57" type="observation">
+               <head>LVII.</head>
+               <p>Mr. <hi>Lowe,</hi> Musician in <hi>London,</hi> received <hi>benefit,</hi> by drinking the waters at the <hi>Kings</hi> Bath, in the <hi>Hypochondriacal</hi> Distemper affect<g ref="char:EOLhyphen"/>ing the <hi>Head</hi> 1693.</p>
+            </div>
+            <div n="58" type="observation">
+               <head>LVIII.</head>
+               <p>Mr. <hi>Reginald Heber,</hi> of the <hi>Middle-Temple,</hi> received <hi>great</hi> benefit, by <hi>bathing</hi> and <hi>drinking</hi> the waters at the <hi>Kings</hi> Bath, in acknowledgment of which, he gave a <hi>Copper Cup</hi> to drink the <hi>waters</hi> from the <hi>lesser</hi> Pump in the <hi>Kings</hi> Bath. I saw him well at <hi>Bath</hi> 1693.</p>
+            </div>
+            <div n="49" type="observation">
+               <pb n="124" facs="tcp:94416:67"/>
+               <head>LIX.</head>
+               <p>Mr. <hi>Abraham Correa,</hi> of <hi>Dukes<g ref="char:EOLhyphen"/>place, London,</hi> received <hi>benefit</hi> in a <hi>scorbutic Rheumatism,</hi> by <hi>drink<g ref="char:EOLhyphen"/>ing</hi> the waters and <hi>bathing</hi> in the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="60" type="observation">
+               <head>LX.</head>
+               <p>I <hi>John Over</hi> of <hi>Elverton,</hi> in the County of <hi>Southton,</hi> Hus<g ref="char:EOLhyphen"/>bandman, do testify, that on the third of <hi>September</hi> 1693, I came to <hi>Bath</hi> troubled with running pains, by cold in <hi>all</hi> my Limbs, and a <hi>sore</hi> in my <hi>right</hi> Leg of <hi>long</hi> continuance, used the <hi>Kings</hi> and <hi>Queens</hi> Bath three <hi>weeks,</hi> went away with <hi>great</hi> benefit, and hopes of <hi>perfect</hi> cure, the sore at <hi>this</hi> time almost closed. Witness my <hi>Hand</hi> this twenty
+<pb n="125" facs="tcp:94416:67"/>fourth day of <hi>September</hi> 1693. <hi>John Over.</hi>
+               </p>
+            </div>
+            <div n="61" type="observation">
+               <head>LXI.</head>
+               <p>In the year 1680 <hi>Daniel Elwell</hi> of <hi>Sedgly,</hi> in the County of <hi>Staf<g ref="char:EOLhyphen"/>ford,</hi> Gentleman, had the misfor<g ref="char:EOLhyphen"/>tune to be <hi>dislocated</hi> in the back, and lay for the space of three <hi>years</hi> not able to dross himself, go or stand, to the <hi>great</hi> grief of all his Friends, during which time, he had the advice of Dr. <hi>Cole,</hi> Dr. <hi>Reynolds,</hi> Dr. <hi>Morton,</hi> and several Chirurgeons, but to no purpose, till by the advice of Dr. <hi>Cole,</hi> he went to the <hi>Bath,</hi> where following directions in <hi>bathing</hi> and <hi>drinking</hi> the waters, it pleased <hi>GOD</hi> to restore him to his <hi>health</hi> and <hi>strength</hi> as former<g ref="char:EOLhyphen"/>ly. Witness my <hi>hand</hi> this 25 day of <hi>September</hi> 1693. <hi>Daniel Elwell.</hi>
+               </p>
+               <div type="note">
+                  <pb n="126" facs="tcp:94416:68"/>
+                  <head>Note.</head>
+                  <p>This Case was drawn up by <hi>himself,</hi> and Printed from a <hi>Copy</hi> of his own <hi>hand-writing;</hi> and that the reduction of the <hi>dislocated spondyle</hi> was <hi>facilitated</hi> by the <hi>Bath.</hi> See <hi>Cent.</hi> 1. <hi>N.</hi> xxi.</p>
+               </div>
+            </div>
+            <div n="62" type="observation">
+               <head>LXII.</head>
+               <p>
+                  <hi>Hester Browse</hi> of <hi>Bradford</hi> in the County of <hi>Wilts,</hi> received <hi>benefit</hi> by <hi>drinking</hi> the waters, and <hi>bathing</hi> in the <hi>Kings</hi> and <hi>Queens</hi> Bath in an <hi>Elephantiasy,</hi> or white scaly skin, 1692 and 1693.</p>
+            </div>
+            <div n="73" type="observation">
+               <head>LXIII.</head>
+               <p>The <hi>Lady Margaret Montgome<g ref="char:EOLhyphen"/>ry</hi> of <hi>Scotland,</hi> benummed in <hi>all</hi>
+                  <pb n="127" facs="tcp:94416:68"/>her limbs, received <hi>cure</hi> at the <hi>Bath</hi> 1693. She bathed in the <hi>Kings</hi> and <hi>Queens</hi> Bath, and drank the waters there. This from Mr. <hi>John Sherstone,</hi> Serjeant of the <hi>Kings</hi> and <hi>Queens</hi> Bath.</p>
+            </div>
+            <div n="64" type="observation">
+               <head>XXIV.</head>
+               <p>Mr. <hi>Crumpe</hi> at the <hi>Half-Moon</hi> Tavern in the <hi>Strand, London,</hi> of a <hi>full</hi> habit of body, and troubled with <hi>Rheumatic</hi> pains over all parts, using the <hi>Kings</hi> and <hi>Queens</hi> Bath, and <hi>drinking</hi> the waters there received <hi>great</hi> benefit 1693.</p>
+            </div>
+            <div n="65" type="observation">
+               <head>LXV.</head>
+               <p>Sir <hi>Ambrose Phillips</hi> Knight, of the <hi>Middle-Temple, London,</hi> in a <hi>Rheumatism,</hi> by the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath,
+<pb n="128" facs="tcp:94416:69"/>and <hi>drinking</hi> the waters received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="66" type="observation">
+               <head>LXVI.</head>
+               <p>
+                  <hi>Madam Phillips</hi> of <hi>London,</hi> in a <hi>Palsey</hi> or relaxation of the <hi>Muscles</hi> of the Throat, which rendered <hi>swallowing</hi> any thing very difficult, by <hi>bathing</hi> and <hi>drinking</hi> the waters at the <hi>Kings</hi> Bath, received <hi>great</hi> benefit 1693. Before she left the <hi>Bath,</hi> she could <hi>eat</hi> and drink much <hi>better</hi> than <hi>when</hi> she came.</p>
+            </div>
+            <div n="67" type="observation">
+               <head>LXVII.</head>
+               <p>Mr. <hi>Rolstone</hi> of <hi>Topsham,</hi> lame on <hi>both</hi> hands, by the use of the <hi>Kings</hi> and <hi>Queens</hi> Bath received <hi>great</hi> benefit 1693.</p>
+            </div>
+            <div n="68" type="observation">
+               <pb n="129" facs="tcp:94416:69"/>
+               <head>LXVIII.</head>
+               <p>
+                  <hi>Lucy Chandler,</hi> of <hi>Ʋshant</hi> in the County of <hi>Wilts,</hi> came to <hi>Bath</hi> with <hi>Crutches,</hi> very lame in her <hi>lower</hi> Limbs, used the <hi>Kings</hi> Bath, and received <hi>cure</hi> 1693. She left her <hi>Crutches</hi> here, and went home <hi>well.</hi>
+               </p>
+            </div>
+            <div n="69" type="observation">
+               <head>LXIX.</head>
+               <p>
+                  <hi>William Johnson</hi> a Seaman, not able to lift his <hi>hand</hi> to his <hi>head,</hi> when he came, received <hi>cure</hi> at the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="70" type="observation">
+               <head>LXX.</head>
+               <p>Captain <hi>Soley,</hi> Captain of a Ship at <hi>Wapping,</hi> in <hi>great</hi> lame<g ref="char:EOLhyphen"/>ness,
+<pb n="130" facs="tcp:94416:70"/>by the use of the <hi>Kings</hi> Bath received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="71" type="observation">
+               <head>LXXI.</head>
+               <p>
+                  <hi>Ann Smith</hi> of <hi>Midford,</hi> near <hi>Bath,</hi> lame, using the <hi>Kings</hi> Bath <hi>one</hi> week only, received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="72" type="observation">
+               <head>LXXII.</head>
+               <p>
+                  <hi>Elizabeth Meseler,</hi> of St. <hi>George's-Fields</hi> in <hi>Southwark,</hi> came lame to <hi>Bath</hi> with <hi>Crutches,</hi> used the <hi>Kings</hi> Bath, and was <hi>cured</hi> 1693. She left her <hi>Crutches</hi> here.</p>
+            </div>
+            <div n="73" type="observation">
+               <head>LXXIII.</head>
+               <p>Mr. <hi>Nicholas Blanch</hi> in <hi>Wild<g ref="char:EOLhyphen"/>street,</hi> near <hi>Wild-House,</hi> lame; by the use of the <hi>Kings</hi> Bath received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="74" type="observation">
+               <pb n="131" facs="tcp:94416:70"/>
+               <head>LXXIV.</head>
+               <p>Mr. <hi>Hawkins,</hi> Butcher in <hi>Smith-field,</hi> received <hi>cure</hi> of <hi>lameness</hi> 1693. He used the <hi>Kings</hi> Bath.</p>
+            </div>
+            <div n="75" type="observation">
+               <head>LXXV.</head>
+               <p>Mr. <hi>Smith,</hi> Gold and Silver Wyer-drawer in <hi>London,</hi> in an <hi>ill</hi> disposition of blood, <hi>much</hi> discolouring the skin, by the <hi>Kings</hi> Bath received <hi>cure</hi> 1693.</p>
+            </div>
+            <div n="76" type="observation">
+               <head>LXXVI.</head>
+               <p>
+                  <hi>James Berry,</hi> in great <hi>weakness</hi> of the <hi>hands,</hi> received <hi>benefit</hi> by the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="77" type="observation">
+               <pb n="132" facs="tcp:94416:71"/>
+               <head>LXXVII.</head>
+               <p>
+                  <hi>John Rushton</hi> Esquire, in a <hi>Pal<g ref="char:EOLhyphen"/>sey</hi> and want of motion of <hi>one</hi> arm, using the <hi>Kings</hi> and <hi>Queens</hi> Bath received <hi>benefit</hi> at <hi>several</hi> Seasons. The last 1693.</p>
+            </div>
+            <div n="78" type="observation">
+               <head>LXXVIII.</head>
+               <p>
+                  <hi>Thomas Shell,</hi> of <hi>Roud</hi> in the County of <hi>Wilts,</hi> lame, came to <hi>Bath</hi> with <hi>Crutches,</hi> and left 'em here 1693. He used the <hi>Kings</hi> Bath.</p>
+            </div>
+            <div n="79" type="observation">
+               <head>LXXIX.</head>
+               <p>Mr. <hi>Collins</hi> of <hi>London,</hi> in great <hi>weakness</hi> of Limbs, especially <hi>both</hi> hands, received <hi>cure</hi> by the <hi>Kings</hi> Bath 1693.</p>
+            </div>
+            <div n="80" type="observation">
+               <pb n="133" facs="tcp:94416:71"/>
+               <head>LXXX.</head>
+               <p>Madam <hi>Walter,</hi> in great <hi>weak<g ref="char:EOLhyphen"/>ness</hi> and pains in <hi>all</hi> her Limbs, received <hi>much</hi> benefit, 1693. She used the <hi>Kings</hi> Bath.</p>
+            </div>
+            <div n="81" type="observation">
+               <head>LXXXI.</head>
+               <p>Mrs. <hi>Mary Cole</hi> of <hi>Ditcheat</hi> in the County of <hi>Somerset,</hi> in a ge<g ref="char:EOLhyphen"/>neral <hi>weakness,</hi> received <hi>great</hi> be<g ref="char:EOLhyphen"/>nefit 1693. She used the <hi>Queens</hi> and <hi>Kings</hi> Bath.</p>
+            </div>
+            <div n="82" type="observation">
+               <head>LXXXII.</head>
+               <p>Mr. <hi>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irat</hi> a <hi>Scotchman,</hi> by the use of the <hi>Kings</hi> Bath received <hi>great</hi> benefit in a <hi>Palsey</hi> 1693.</p>
+               <div type="note">
+                  <pb n="134" facs="tcp:94416:72"/>
+                  <head>Note.</head>
+                  <p>
+                     <hi>The last Twenty are mentioned from Serjeant</hi> Sherstone, <hi>Serjeant of the</hi> Kings <hi>and</hi> Queens <hi>Bath.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="83" type="observation">
+               <head>LXXXIII.</head>
+               <p>Mrs. <hi>Woodcock,</hi> in a high <hi>Scor<g ref="char:EOLhyphen"/>butic</hi> Distemper, much <hi>discolour<g ref="char:EOLhyphen"/>ing</hi> the skin, by <hi>drinking</hi> the wa<g ref="char:EOLhyphen"/>ters and using the <hi>Hot</hi> Bath re<g ref="char:EOLhyphen"/>ceived <hi>benefit,</hi> at <hi>several</hi> seasons of bathing and <hi>drinking.</hi>
+               </p>
+            </div>
+            <div n="84" type="observation">
+               <head>LXXXIV.</head>
+               <p>Madam <hi>Boothby</hi> in <hi>Aldersgate<g ref="char:EOLhyphen"/>street, London,</hi> in great <hi>tenderness</hi> of body, and <hi>general</hi> weakness of the <hi>Nerves</hi> and <hi>fibrous</hi> parts of the <hi>inside</hi> especially, by <hi>drink<g ref="char:EOLhyphen"/>ing</hi> the waters at the <hi>Kings</hi> Bath received <hi>benefit</hi> 1693. <hi>Hannah Boothby.</hi>
+               </p>
+            </div>
+            <div n="85" type="observation">
+               <pb n="135" facs="tcp:94416:72"/>
+               <head>LXXXV.</head>
+               <p>Mr. <hi>Randal Taylor,</hi> near <hi>Stati<g ref="char:EOLhyphen"/>oners</hi> Hall, <hi>London,</hi> in weakness and want of motion of <hi>one</hi> arm, by <hi>bathing</hi> and <hi>pumping</hi> at the <hi>Kings</hi> Bath, at <hi>several</hi> Seasons, received <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="86" type="observation">
+               <head>LXXXVI.</head>
+               <p>Mr. <hi>Randal Smith,</hi> of <hi>Minshall Hall</hi> in the County of <hi>Chester,</hi> in a very low <hi>extenuated</hi> habit of Body, and much troubled with the <hi>Jaundice;</hi> by <hi>drinking</hi> a con<g ref="char:EOLhyphen"/>siderable time the waters from the <hi>Kings</hi> Bath dry Pump, and sometimes <hi>bathing</hi> in the <hi>Queens</hi> Bath, received <hi>great</hi> benefit 1693.</p>
+            </div>
+            <div n="87" type="observation">
+               <pb n="136" facs="tcp:94416:73"/>
+               <head>LXXXVII.</head>
+               <p>Mrs. <hi>Cole</hi> of <hi>Barnestaple,</hi> in the County of <hi>Devon,</hi> in the <hi>Spleen</hi> and <hi>Scurvy,</hi> by drinking the wa<g ref="char:EOLhyphen"/>ters, and <hi>bathing</hi> in the <hi>Queens</hi> and <hi>Kings</hi> Bath, as directed, at <hi>several</hi> seasons of bathing and <hi>drinking,</hi> received <hi>benefit.</hi>
+               </p>
+            </div>
+            <div n="88" type="observation">
+               <head>LXXXVIII.</head>
+               <p>
+                  <hi>William Lacy</hi> Esquire, late <hi>High Sheriff</hi> of the County of <hi>Somerset,</hi> in great weakness of <hi>one</hi> of his Arms, <hi>Hand</hi> and <hi>Fing<g ref="char:EOLhyphen"/>ers,</hi> by <hi>drinking</hi> the waters, and <hi>bathing</hi> in the <hi>Cross</hi> Bath received <hi>great</hi> benefit. He used the <hi>Cross</hi> Bath at <hi>several</hi> Seasons.</p>
+            </div>
+            <div n="89" type="observation">
+               <pb n="137" facs="tcp:94416:73"/>
+               <head>LXXXIX.</head>
+               <p>A Daughter of Mr. <hi>Jonathan Lovel,</hi> Apothecary in <hi>Ross</hi> in the County of <hi>Hereford,</hi> in lame<g ref="char:EOLhyphen"/>ness and weakness of <hi>one</hi> Leg, by the use of the <hi>Kings</hi> Bath re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="90" type="observation">
+               <head>XC.</head>
+               <p>Madam <hi>Barber,</hi> in the <hi>Spleen</hi> and inward <hi>Obstructions,</hi> drink<g ref="char:EOLhyphen"/>ing the <hi>waters,</hi> both on the <hi>place</hi> and in the <hi>Country,</hi> received <hi>be<g ref="char:EOLhyphen"/>nefit</hi> 1693.</p>
+            </div>
+            <div n="91" type="observation">
+               <head>XCI.</head>
+               <p>
+                  <hi>Major Ryan</hi> of <hi>Islington,</hi> near <hi>London,</hi> by <hi>drinking</hi> the waters and <hi>bathing</hi> in the <hi>Kings</hi> Bath re<g ref="char:EOLhyphen"/>ceived <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="92" type="observation">
+               <pb n="138" facs="tcp:94416:74"/>
+               <head>XCII.</head>
+               <p>Mrs. <hi>Gill,</hi> a young Gentlewo<g ref="char:EOLhyphen"/>woman of <hi>Cheshire,</hi> lame in <hi>one</hi> arm and <hi>hand,</hi> by <hi>drinking, bath<g ref="char:EOLhyphen"/>ing</hi> and <hi>pumping</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the <hi>Kings</hi> Bath, received <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="93" type="observation">
+               <head>XCIII.</head>
+               <p>Mrs. <hi>Oates</hi> of <hi>Kingston</hi> upon <hi>Thames,</hi> in a <hi>general</hi> weakness; by the use of the <hi>Queens</hi> and <hi>Kings</hi> Bath received <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="94" type="observation">
+               <head>XCIV.</head>
+               <p>Mrs. <hi>Mainwaring,</hi> in <hi>Cheshire,</hi> in full habit of body, and <hi>Ob<g ref="char:EOLhyphen"/>structions;</hi> by bathing in the <hi>Kings</hi> and <hi>Queens</hi> Bath, and <hi>drinking</hi> the waters, received <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="95" type="observation">
+               <pb n="139" facs="tcp:94416:74"/>
+               <head>XCV.</head>
+               <p>Mr. <hi>Covert,</hi> in a <hi>Palsey</hi> of one side, much afflicting the Leg, by the use of the <hi>Kings</hi> Bath recei<g ref="char:EOLhyphen"/>ved <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="96" type="observation">
+               <head>XCVI.</head>
+               <p>Mr. <hi>Higginson</hi> of <hi>Westchester,</hi> in inward <hi>distempers</hi> afflicting the <hi>head</hi> and <hi>stomach;</hi> by <hi>drinking</hi> the waters at the <hi>Kings</hi> Bath recei<g ref="char:EOLhyphen"/>ved <hi>benefit</hi> 1693.</p>
+            </div>
+            <div n="97" type="observation">
+               <head>XCVII.</head>
+               <p>Mrs. <hi>Mary Guest</hi> of <hi>Bath,</hi> re<g ref="char:EOLhyphen"/>ceived <hi>cure</hi> of <hi>great</hi> weakness and <hi>numness</hi> in the <hi>lower</hi> Limbs, by use of the <hi>Kings</hi> Bath, and <hi>pump<g ref="char:EOLhyphen"/>ing</hi> in the same. She is now <hi>re<g ref="char:EOLhyphen"/>covered</hi> and gave Testimony 8
+<pb n="140" facs="tcp:94416:75"/>
+                  <hi>November</hi> 1693, at Mr. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Carnes</hi> House in <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="98" type="observation">
+               <head>XCVIII.</head>
+               <p>
+                  <hi>John Glass</hi> Carver in <hi>Bath,</hi> received <hi>cure</hi> of a <hi>Sciatica</hi> in <hi>th<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> bathing in the <hi>Hot</hi> Bath <hi>wit<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> pumping. He gave Testimony 10 <hi>November</hi> 1693.</p>
+            </div>
+            <div n="99" type="observation">
+               <head>XCIX.</head>
+               <p>
+                  <hi>Edward Bushel,</hi> Alderman and <hi>Mayor</hi> of Bath, received <hi>great</hi> benefit in <hi>Nephritic</hi> distempers and <hi>bloody</hi> Urine, by <hi>drinking</hi> the waters at the <hi>Kings</hi> Bath. Gave Testimony 22 <hi>November</hi> 1693 at <hi>Bath.</hi>
+               </p>
+            </div>
+            <div n="100" type="observation">
+               <pb n="141" facs="tcp:94416:75"/>
+               <head>C.</head>
+               <p>A <hi>Young Man</hi> recommended to me by Mr. <hi>G. Harrison,</hi> Eld<g ref="char:EOLhyphen"/>est Son to Dr. <hi>William Harrison,</hi> D. D. and Master of <hi>St. Cross</hi> near <hi>Winchester</hi> in the County of <hi>Southton,</hi> in these words: Sir, <hi>The bearer having received a great deal of benefit from drinking the waters, if you think fit may make one in your Account; He can bet<g ref="char:EOLhyphen"/>ter tell you his Distemper and Re<g ref="char:EOLhyphen"/>covery, than my self, I will there<g ref="char:EOLhyphen"/>fore leave it to him. I am,</hi> Sir, <hi>Yours</hi> G. H. The Case thus: <hi>Henry Dunne</hi> of <hi>Milbrook</hi> near <hi>Southampton,</hi> troubled with <hi>Scor<g ref="char:EOLhyphen"/>bute,</hi> and <hi>Hyporhondriacal Melan<g ref="char:EOLhyphen"/>choly,</hi> indisposing much the <hi>Sto<g ref="char:EOLhyphen"/>mach</hi> and <hi>Spleen,</hi> and afflicting the <hi>head,</hi> in a <hi>weak</hi> and languish<g ref="char:EOLhyphen"/>ing condition, <hi>drank</hi> the waters
+<pb n="142" facs="tcp:94416:76"/>of the <hi>Kings</hi> Bath five <hi>weeks,</hi> and found great alterations, a <hi>clear head,</hi> and <hi>good habit of body,</hi> ve<g ref="char:EOLhyphen"/>ry much to satisfaction, and now digesteth well, and thrives. He gave this Testimony 29 <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1693. The next day I came for <hi>London.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="list">
+            <pb n="143" facs="tcp:94416:76"/>
+            <head>
+               <hi>Benefactors,</hi> or Givers of <hi>Brass Rings,</hi> to hold by in the <hi>Bath,</hi> for <hi>Cures,</hi> or <hi>Benefit,</hi> not expressed.</head>
+            <p>
+               <hi>LYdia White,</hi> Daughter of <hi>Wil<g ref="char:EOLhyphen"/>liam White,</hi> Citizen and <hi>Clothier</hi> of <hi>London</hi> 1612. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>Lady Elizabeth Poulet,</hi> Wife of Sir <hi>John Poulet</hi> of <hi>Winchester,</hi> Knight, 1631. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>P. K.</hi> 1635. <hi>Cross</hi> Bath.</p>
+            <pb n="144" facs="tcp:94416:77"/>
+            <p>
+               <hi>T. D. J.</hi> 1639. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>T. C.</hi> 1639. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>E. F.</hi> without date, <hi>Kings</hi> Bath.</p>
+            <p>
+               <hi>T. E. D.</hi> without date, <hi>Kings</hi> Bath.</p>
+            <p>
+               <hi>Richard Pember,</hi> without date, <hi>Queens</hi> Bath.</p>
+            <p>
+               <hi>Samuel Carington</hi> 1661. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>Thomas Wyndham,</hi> of <hi>Witham</hi> in the County of <hi>Somerset</hi> Esquire, 1664. <hi>Kings</hi> Bath.</p>
+            <p>
+               <hi>Roger Kempe,</hi> Citizen and <hi>Skinner</hi> of <hi>London.</hi> 1667. <hi>Kings</hi> Bath.</p>
+            <p>
+               <hi>Humphry Wykham,</hi> of <hi>Swalelift</hi> in the County of <hi>Oxon,</hi> Esquire, 1673. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>Mary,</hi> Wife of <hi>John Ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of <hi>Tachbrook</hi> in the County of <hi>War<g ref="char:EOLhyphen"/>wick</hi> Esquire, 1673. <hi>Cross</hi> Bath.</p>
+            <p>The Lady <hi>ANN GREVI<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Eldest</hi> Daughter to the Right Ho<g ref="char:EOLhyphen"/>nourable
+<pb n="145" facs="tcp:94416:77"/>
+               <hi>ROBERT</hi> late <hi>Baron BROOKE,</hi> now Countess of <hi>KINGSTON,</hi> 1674. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>BARBARA</hi> Dutchess of <hi>CLEVELAND,</hi> 1674. <hi>Cross</hi> Bath.</p>
+            <p>Dutchess of <hi>PORTSMOƲTH</hi> 1674. <hi>Cross</hi> Bath.</p>
+            <p>The Lady <hi>ESSEX GRIF<g ref="char:EOLhyphen"/>FIN,</hi> 1674. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>John Revet</hi> Brazier to King <hi>CHARLES</hi> II. 1674. <hi>Kings</hi> Bath. See <hi>Cent.</hi> 1. <hi>N.</hi> viii.</p>
+            <p>Sir <hi>William Whitmore</hi> Baronet, and Sir <hi>Thomas Whitmore</hi> Knight of the Bath, 1679. <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>B. Ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew,</hi> without date, <hi>Kings</hi> Bath.</p>
+            <p>Sir <hi>Thomas Delues</hi> of <hi>Doddging<g ref="char:EOLhyphen"/>ton</hi> in the County of <hi>Chester,</hi> Knight and <hi>Baronet,</hi> 1681. <hi>Hot</hi> Bath.</p>
+            <pb n="146" facs="tcp:94416:78"/>
+            <p>
+               <hi>Elizabeth Cotton</hi> of <hi>Plymouth,</hi> in the County of <hi>Devon</hi> 1683. <hi>Queens</hi> Bath.</p>
+            <p>Mr. <hi>Kingston,</hi> common Brewer of <hi>Plymouth. Queens</hi> Bath.</p>
+            <p>Sir <hi>Robert Holms</hi> Knight, Go<g ref="char:EOLhyphen"/>vernour of the <hi>Isle</hi> of <hi>Wight,</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>
+               <hi>Walter Gibbs,</hi> Alderman of <hi>Bath</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>Dr. <hi>Robert Peirce</hi> of <hi>Bath,</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>Mr. <hi>Charles Bave</hi> of <hi>Bath</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>
+               <hi>Thomas Smith</hi> of <hi>Bath</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>
+               <hi>Robert Mathews</hi> of <hi>Bath,</hi> 1683. <hi>Hot</hi> Bath.</p>
+            <p>
+               <hi>Robert Chapman</hi> Alderman of <hi>Bath</hi> 1684. <hi>Hot</hi> Bath.</p>
+            <p>
+               <hi>Robert <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong,</hi> of <hi>Stanton Drue,</hi> in the County of <hi>Somerset</hi> Esq; 1685. <hi>Hot</hi> Bath.</p>
+            <p>The Honourable <hi>Thomas Co<g ref="char:EOLhyphen"/>ventry</hi>
+               <pb n="147" facs="tcp:94416:78"/>of <hi>Smitfield</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Warwick</hi> Esquire, 1686. <hi>Hot</hi> Bath.</p>
+            <p>Sir <hi>George Norton,</hi> of <hi>Abbots Leigh</hi> in the County of <hi>Somerset,</hi> Baronet, 1689. <hi>Kings</hi> Bath.</p>
+            <p>Mrs. <hi>Stratton</hi> of <hi>London,</hi> 1689. <hi>Kings</hi> Bath.</p>
+            <p>The <hi>Dutchess</hi> of <hi>BƲCK<g ref="char:EOLhyphen"/>INGHAM,</hi> 1690. <hi>Cross</hi> Bath.</p>
+            <p>Mr. <hi>Reginald Heber</hi> of the <hi>Middle</hi> Temple, a <hi>Copper Cup</hi> to drink the waters from the <hi>lesser</hi> Pump in the <hi>Kings</hi> Bath.</p>
+            <p>What <hi>Rings</hi> have been given <hi>since,</hi> I have not <hi>yet</hi> observed.</p>
+            <p>To <hi>These</hi> may be added,</p>
+            <p>Sir <hi>Francis Stonor,</hi> of <hi>Stonor</hi> in the County of <hi>Oxon</hi> Knight, who gave the <hi>stone Rails</hi> and <hi>Pave<g ref="char:EOLhyphen"/>ment</hi> at the <hi>Kings</hi> Bath.</p>
+            <pb n="148" facs="tcp:94416:79"/>
+            <p>The <hi>Arch-Bishop</hi> of <hi>York</hi> (I sup<g ref="char:EOLhyphen"/>pose Dr. <hi>Harsenet</hi>) and <hi>Hugh May</hi> Esquire, who gave the <hi>Pumps</hi> at the <hi>Cross</hi> Bath.</p>
+            <p>
+               <hi>Humphrey Brown,</hi> Merchant of <hi>London,</hi> who gave the <hi>Pumps</hi> in the <hi>Kings</hi> and <hi>Queens</hi> Bath; and in my <hi>own</hi> memory,</p>
+            <p>The Right Honourable <hi>RO<g ref="char:EOLhyphen"/>BERT</hi> late Lord <hi>BROOKE,</hi> erected the <hi>North Gallery,</hi> at the <hi>Cross</hi> Bath. All <hi>elsewhere</hi> more fully mentioned, in the <hi>Book</hi> I formerly writ concerning the <hi>Baths of Great Britain,</hi> which in <hi>short</hi> time, will be in <hi>English.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="149" facs="tcp:94416:79"/>
+            <p>SInce the <hi>former,</hi> this case was <hi>tendred</hi> in <hi>London,</hi> and taken by me from the <hi>Party</hi> at my <hi>Lodgings</hi> there.</p>
+            <p>
+               <hi>Edward Washbeare</hi> of <hi>London,</hi> sixty two <hi>years</hi> of Age, came to <hi>Bath</hi> in <hi>April</hi> 1688, lame on <hi>both</hi> sides for near three <hi>years,</hi> came <hi>without</hi> Crutches, creeping on his <hi>hands</hi> and <hi>knees,</hi> and hav<g ref="char:EOLhyphen"/>ing the benefit of <hi>Bellots</hi> Hospi<g ref="char:EOLhyphen"/>tal there, used the <hi>Hot</hi> and <hi>other</hi> Bath six <hi>weeks,</hi> drank the <hi>waters</hi> and pumped in the <hi>Bath,</hi> and mended so far on the place, as in seven <hi>weeks</hi> time to go upon <hi>Crutches,</hi> and before he went away hung up his Crutches and could go <hi>only</hi> by the help of a <hi>staff,</hi> and ten <hi>weeks</hi> after leaving the <hi>Bath,</hi> perfectly <hi>recovered.</hi> I
+<pb n="150" facs="tcp:94416:80"/>saw him <hi>strong,</hi> erect, and <hi>sound,</hi> in <hi>London</hi> 3 <hi>March</hi> 1694, at which time he gave <hi>Testimony</hi> of cure, but could not <hi>write.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94416:80"/>
+         </div>
+      </body>
+   </text>
+</TEI>
